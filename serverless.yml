@@ -1,0 +1,42 @@
+service: league-create-teams-scheduler
+
+frameworkVersion: '3'
+
+provider:
+  name: aws
+  runtime: nodejs18.x
+  region: us-east-1
+  iam:
+    role:
+      statements:
+        - Effect: "Allow"
+          Action:
+            - "sqs:SendMessage"
+          Resource:
+            - "arn:aws:sqs:us-east-1:880180928996:processar-players-statistics-team" 
+
+functions:
+  leagueCreateTeamsScheduler:
+    handler: handler.handler
+    name: league-create-teams-scheduler
+    timeout: 600
+    events:
+      - http:
+          path: league-create-teams-scheduler
+          method: post
+          cors: true
+
+plugins:
+  - serverless-offline
+
+custom:
+  serverless-offline:
+    httpPort: 3000
+
+resources:
+  Resources:
+    PlayersStatsQueue:
+      Type: AWS::SQS::Queue
+      Properties:
+        QueueName: processar-players-statistics-team
+        VisibilityTimeout: 60

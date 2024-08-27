@@ -1,0 +1,5153 @@
+{
+    "2410": {
+        "player": {
+            "id": 2410,
+            "name": "Weverton",
+            "firstname": "Weverton",
+            "lastname": "Pereira da Silva",
+            "age": 37,
+            "birth": {
+                "date": "1987-12-13",
+                "place": "Rio Branco",
+                "country": "Brazil"
+            },
+            "nationality": "Brazil",
+            "height": "189 cm",
+            "weight": "91 kg",
+            "injured": false,
+            "photo": "https://media.api-sports.io/football/players/2410.png"
+        },
+        "statistics": [
+            {
+                "team": {
+                    "id": 121,
+                    "name": "Palmeiras",
+                    "logo": "https://media.api-sports.io/football/teams/121.png"
+                },
+                "league": {
+                    "id": 13,
+                    "name": "CONMEBOL Libertadores",
+                    "country": "World",
+                    "logo": "https://media.api-sports.io/football/leagues/13.png",
+                    "flag": null,
+                    "season": 2024
+                },
+                "games": {
+                    "appearences": 6,
+                    "lineups": 6,
+                    "minutes": 540,
+                    "number": null,
+                    "position": "Goalkeeper",
+                    "rating": "6.800000",
+                    "captain": false
+                },
+                "substitutes": {
+                    "in": 0,
+                    "out": 0,
+                    "bench": 0
+                },
+                "shots": {
+                    "total": null,
+                    "on": null
+                },
+                "goals": {
+                    "total": 0,
+                    "conceded": 6,
+                    "assists": 0,
+                    "saves": 15
+                },
+                "passes": {
+                    "total": 152,
+                    "key": null,
+                    "accuracy": 15
+                },
+                "tackles": {
+                    "total": null,
+                    "blocks": null,
+                    "interceptions": null
+                },
+                "duels": {
+                    "total": 5,
+                    "won": 5
+                },
+                "dribbles": {
+                    "attempts": null,
+                    "success": null,
+                    "past": null
+                },
+                "fouls": {
+                    "drawn": 4,
+                    "committed": null
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellowred": 0,
+                    "red": 0
+                },
+                "penalty": {
+                    "won": null,
+                    "commited": null,
+                    "scored": 0,
+                    "missed": 0,
+                    "saved": 0
+                }
+            }
+        ],
+        "total_goals": 0,
+        "total_dribbles": 0,
+        "total_desarmes": 0,
+        "total_passes": 152,
+        "total_appearances": 6,
+        "total_defesas": 15
+    },
+    "2412": {
+        "player": {
+            "id": 2412,
+            "name": "Felipe Anderson",
+            "firstname": "Felipe",
+            "lastname": "Anderson Pereira Gomes",
+            "age": 31,
+            "birth": {
+                "date": "1993-04-15",
+                "place": "Brasília",
+                "country": "Brazil"
+            },
+            "nationality": "Brazil",
+            "height": "175 cm",
+            "weight": "70 kg",
+            "injured": false,
+            "photo": "https://media.api-sports.io/football/players/2412.png"
+        },
+        "statistics": [
+            {
+                "team": {
+                    "id": 121,
+                    "name": "Palmeiras",
+                    "logo": "https://media.api-sports.io/football/teams/121.png"
+                },
+                "league": {
+                    "id": 13,
+                    "name": "CONMEBOL Libertadores",
+                    "country": "World",
+                    "logo": "https://media.api-sports.io/football/leagues/13.png",
+                    "flag": null,
+                    "season": 2024
+                },
+                "games": {
+                    "appearences": 1,
+                    "lineups": 0,
+                    "minutes": 33,
+                    "number": null,
+                    "position": "Midfielder",
+                    "rating": "6.700000",
+                    "captain": false
+                },
+                "substitutes": {
+                    "in": 1,
+                    "out": 0,
+                    "bench": 1
+                },
+                "shots": {
+                    "total": null,
+                    "on": null
+                },
+                "goals": {
+                    "total": 0,
+                    "conceded": 0,
+                    "assists": 0,
+                    "saves": null
+                },
+                "passes": {
+                    "total": 21,
+                    "key": 1,
+                    "accuracy": 13
+                },
+                "tackles": {
+                    "total": null,
+                    "blocks": null,
+                    "interceptions": null
+                },
+                "duels": {
+                    "total": 2,
+                    "won": null
+                },
+                "dribbles": {
+                    "attempts": null,
+                    "success": null,
+                    "past": null
+                },
+                "fouls": {
+                    "drawn": null,
+                    "committed": null
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellowred": 0,
+                    "red": 0
+                },
+                "penalty": {
+                    "won": null,
+                    "commited": null,
+                    "scored": 0,
+                    "missed": 0,
+                    "saved": null
+                }
+            }
+        ],
+        "total_goals": 0,
+        "total_dribbles": 0,
+        "total_desarmes": 0,
+        "total_passes": 21,
+        "total_appearances": 1,
+        "total_defesas": 0
+    },
+    "2502": {
+        "player": {
+            "id": 2502,
+            "name": "G. Gómez",
+            "firstname": "Gustavo Raúl",
+            "lastname": "Gómez Portillo",
+            "age": 31,
+            "birth": {
+                "date": "1993-05-06",
+                "place": "San Juan Bautista",
+                "country": "Paraguay"
+            },
+            "nationality": "Paraguay",
+            "height": "185 cm",
+            "weight": "86 kg",
+            "injured": false,
+            "photo": "https://media.api-sports.io/football/players/2502.png"
+        },
+        "statistics": [
+            {
+                "team": {
+                    "id": 121,
+                    "name": "Palmeiras",
+                    "logo": "https://media.api-sports.io/football/teams/121.png"
+                },
+                "league": {
+                    "id": 13,
+                    "name": "CONMEBOL Libertadores",
+                    "country": "World",
+                    "logo": "https://media.api-sports.io/football/leagues/13.png",
+                    "flag": null,
+                    "season": 2024
+                },
+                "games": {
+                    "appearences": 7,
+                    "lineups": 7,
+                    "minutes": 621,
+                    "number": null,
+                    "position": "Defender",
+                    "rating": "7.142857",
+                    "captain": false
+                },
+                "substitutes": {
+                    "in": 0,
+                    "out": 1,
+                    "bench": 0
+                },
+                "shots": {
+                    "total": 3,
+                    "on": 2
+                },
+                "goals": {
+                    "total": 2,
+                    "conceded": 0,
+                    "assists": 0,
+                    "saves": null
+                },
+                "passes": {
+                    "total": 278,
+                    "key": null,
+                    "accuracy": 32
+                },
+                "tackles": {
+                    "total": 9,
+                    "blocks": 3,
+                    "interceptions": 9
+                },
+                "duels": {
+                    "total": 83,
+                    "won": 60
+                },
+                "dribbles": {
+                    "attempts": null,
+                    "success": null,
+                    "past": null
+                },
+                "fouls": {
+                    "drawn": 8,
+                    "committed": 7
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellowred": 0,
+                    "red": 0
+                },
+                "penalty": {
+                    "won": null,
+                    "commited": null,
+                    "scored": 2,
+                    "missed": 0,
+                    "saved": null
+                }
+            }
+        ],
+        "total_goals": 2,
+        "total_dribbles": 0,
+        "total_desarmes": 9,
+        "total_passes": 278,
+        "total_appearances": 7,
+        "total_defesas": 0
+    },
+    "6347": {
+        "player": {
+            "id": 6347,
+            "name": "A. Moreno",
+            "firstname": "Aníbal Ismael",
+            "lastname": "Moreno",
+            "age": 25,
+            "birth": {
+                "date": "1999-05-13",
+                "place": "San Fernando del Valle de Catamarca",
+                "country": "Argentina"
+            },
+            "nationality": "Argentina",
+            "height": "178 cm",
+            "weight": "74 kg",
+            "injured": false,
+            "photo": "https://media.api-sports.io/football/players/6347.png"
+        },
+        "statistics": [
+            {
+                "team": {
+                    "id": 121,
+                    "name": "Palmeiras",
+                    "logo": "https://media.api-sports.io/football/teams/121.png"
+                },
+                "league": {
+                    "id": 13,
+                    "name": "CONMEBOL Libertadores",
+                    "country": "World",
+                    "logo": "https://media.api-sports.io/football/leagues/13.png",
+                    "flag": null,
+                    "season": 2024
+                },
+                "games": {
+                    "appearences": 6,
+                    "lineups": 5,
+                    "minutes": 420,
+                    "number": null,
+                    "position": "Midfielder",
+                    "rating": "6.866666",
+                    "captain": false
+                },
+                "substitutes": {
+                    "in": 1,
+                    "out": 3,
+                    "bench": 1
+                },
+                "shots": {
+                    "total": 1,
+                    "on": 1
+                },
+                "goals": {
+                    "total": 1,
+                    "conceded": 0,
+                    "assists": 0,
+                    "saves": null
+                },
+                "passes": {
+                    "total": 210,
+                    "key": 2,
+                    "accuracy": 30
+                },
+                "tackles": {
+                    "total": 15,
+                    "blocks": 2,
+                    "interceptions": 2
+                },
+                "duels": {
+                    "total": 39,
+                    "won": 21
+                },
+                "dribbles": {
+                    "attempts": 5,
+                    "success": 3,
+                    "past": null
+                },
+                "fouls": {
+                    "drawn": 1,
+                    "committed": 3
+                },
+                "cards": {
+                    "yellow": 1,
+                    "yellowred": 0,
+                    "red": 0
+                },
+                "penalty": {
+                    "won": null,
+                    "commited": null,
+                    "scored": 0,
+                    "missed": 0,
+                    "saved": null
+                }
+            }
+        ],
+        "total_goals": 1,
+        "total_dribbles": 3,
+        "total_desarmes": 15,
+        "total_passes": 210,
+        "total_appearances": 6,
+        "total_defesas": 0
+    },
+    "9445": {
+        "player": {
+            "id": 9445,
+            "name": "Bruno Rodrigues",
+            "firstname": "Bruno Rafael",
+            "lastname": "Rodrigues do Nascimento",
+            "age": 27,
+            "birth": {
+                "date": "1997-03-07",
+                "place": "Ceará-Mirim",
+                "country": "Brazil"
+            },
+            "nationality": "Brazil",
+            "height": "177 cm",
+            "weight": "72 kg",
+            "injured": false,
+            "photo": "https://media.api-sports.io/football/players/9445.png"
+        },
+        "statistics": [
+            {
+                "team": {
+                    "id": 121,
+                    "name": "Palmeiras",
+                    "logo": "https://media.api-sports.io/football/teams/121.png"
+                },
+                "league": {
+                    "id": 13,
+                    "name": "CONMEBOL Libertadores",
+                    "country": "World",
+                    "logo": "https://media.api-sports.io/football/leagues/13.png",
+                    "flag": null,
+                    "season": 2024
+                },
+                "games": {
+                    "appearences": 0,
+                    "lineups": 0,
+                    "minutes": 0,
+                    "number": null,
+                    "position": "Attacker",
+                    "rating": null,
+                    "captain": false
+                },
+                "substitutes": {
+                    "in": 0,
+                    "out": 0,
+                    "bench": 0
+                },
+                "shots": {
+                    "total": null,
+                    "on": null
+                },
+                "goals": {
+                    "total": 0,
+                    "conceded": null,
+                    "assists": null,
+                    "saves": null
+                },
+                "passes": {
+                    "total": null,
+                    "key": null,
+                    "accuracy": null
+                },
+                "tackles": {
+                    "total": null,
+                    "blocks": null,
+                    "interceptions": null
+                },
+                "duels": {
+                    "total": null,
+                    "won": null
+                },
+                "dribbles": {
+                    "attempts": null,
+                    "success": null,
+                    "past": null
+                },
+                "fouls": {
+                    "drawn": null,
+                    "committed": null
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellowred": 0,
+                    "red": 0
+                },
+                "penalty": {
+                    "won": null,
+                    "commited": null,
+                    "scored": null,
+                    "missed": null,
+                    "saved": null
+                }
+            }
+        ],
+        "total_goals": 0,
+        "total_dribbles": 0,
+        "total_desarmes": 0,
+        "total_passes": 0,
+        "total_appearances": 0,
+        "total_defesas": 0
+    },
+    "9913": {
+        "player": {
+            "id": 9913,
+            "name": "Luan",
+            "firstname": "Luan",
+            "lastname": "Garcia Teixeira",
+            "age": 31,
+            "birth": {
+                "date": "1993-05-10",
+                "place": "Vitória",
+                "country": "Brazil"
+            },
+            "nationality": "Brazil",
+            "height": "189 cm",
+            "weight": "86 kg",
+            "injured": false,
+            "photo": "https://media.api-sports.io/football/players/9913.png"
+        },
+        "statistics": [
+            {
+                "team": {
+                    "id": 121,
+                    "name": "Palmeiras",
+                    "logo": "https://media.api-sports.io/football/teams/121.png"
+                },
+                "league": {
+                    "id": 13,
+                    "name": "CONMEBOL Libertadores",
+                    "country": "World",
+                    "logo": "https://media.api-sports.io/football/leagues/13.png",
+                    "flag": null,
+                    "season": 2024
+                },
+                "games": {
+                    "appearences": 3,
+                    "lineups": 1,
+                    "minutes": 92,
+                    "number": null,
+                    "position": "Defender",
+                    "rating": "6.833333",
+                    "captain": false
+                },
+                "substitutes": {
+                    "in": 2,
+                    "out": 1,
+                    "bench": 5
+                },
+                "shots": {
+                    "total": null,
+                    "on": null
+                },
+                "goals": {
+                    "total": 0,
+                    "conceded": 0,
+                    "assists": null,
+                    "saves": null
+                },
+                "passes": {
+                    "total": 26,
+                    "key": null,
+                    "accuracy": 11
+                },
+                "tackles": {
+                    "total": 3,
+                    "blocks": 1,
+                    "interceptions": 1
+                },
+                "duels": {
+                    "total": 8,
+                    "won": 7
+                },
+                "dribbles": {
+                    "attempts": null,
+                    "success": null,
+                    "past": null
+                },
+                "fouls": {
+                    "drawn": 2,
+                    "committed": null
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellowred": 0,
+                    "red": 0
+                },
+                "penalty": {
+                    "won": null,
+                    "commited": null,
+                    "scored": 0,
+                    "missed": 0,
+                    "saved": null
+                }
+            }
+        ],
+        "total_goals": 0,
+        "total_dribbles": 0,
+        "total_desarmes": 3,
+        "total_passes": 26,
+        "total_appearances": 3,
+        "total_defesas": 0
+    },
+    "9916": {
+        "player": {
+            "id": 9916,
+            "name": "Marcos Rocha",
+            "firstname": "Marcos Luis",
+            "lastname": "Rocha Aquino",
+            "age": 36,
+            "birth": {
+                "date": "1988-12-11",
+                "place": "Sete Lagoas",
+                "country": "Brazil"
+            },
+            "nationality": "Brazil",
+            "height": "176 cm",
+            "weight": "73 kg",
+            "injured": false,
+            "photo": "https://media.api-sports.io/football/players/9916.png"
+        },
+        "statistics": [
+            {
+                "team": {
+                    "id": 121,
+                    "name": "Palmeiras",
+                    "logo": "https://media.api-sports.io/football/teams/121.png"
+                },
+                "league": {
+                    "id": 13,
+                    "name": "CONMEBOL Libertadores",
+                    "country": "World",
+                    "logo": "https://media.api-sports.io/football/leagues/13.png",
+                    "flag": null,
+                    "season": 2024
+                },
+                "games": {
+                    "appearences": 5,
+                    "lineups": 5,
+                    "minutes": 450,
+                    "number": null,
+                    "position": "Defender",
+                    "rating": "7.260000",
+                    "captain": false
+                },
+                "substitutes": {
+                    "in": 0,
+                    "out": 0,
+                    "bench": 1
+                },
+                "shots": {
+                    "total": 1,
+                    "on": 1
+                },
+                "goals": {
+                    "total": 0,
+                    "conceded": 0,
+                    "assists": 1,
+                    "saves": null
+                },
+                "passes": {
+                    "total": 300,
+                    "key": 7,
+                    "accuracy": 49
+                },
+                "tackles": {
+                    "total": 14,
+                    "blocks": 1,
+                    "interceptions": 6
+                },
+                "duels": {
+                    "total": 39,
+                    "won": 26
+                },
+                "dribbles": {
+                    "attempts": 2,
+                    "success": 1,
+                    "past": null
+                },
+                "fouls": {
+                    "drawn": 2,
+                    "committed": 5
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellowred": 0,
+                    "red": 0
+                },
+                "penalty": {
+                    "won": null,
+                    "commited": null,
+                    "scored": 0,
+                    "missed": 0,
+                    "saved": null
+                }
+            }
+        ],
+        "total_goals": 0,
+        "total_dribbles": 1,
+        "total_desarmes": 14,
+        "total_passes": 300,
+        "total_appearances": 5,
+        "total_defesas": 0
+    },
+    "9917": {
+        "player": {
+            "id": 9917,
+            "name": "Mayke",
+            "firstname": "Mayke",
+            "lastname": "Rocha de Oliveira",
+            "age": 32,
+            "birth": {
+                "date": "1992-11-10",
+                "place": "Carangola",
+                "country": "Brazil"
+            },
+            "nationality": "Brazil",
+            "height": "179 cm",
+            "weight": "72 kg",
+            "injured": false,
+            "photo": "https://media.api-sports.io/football/players/9917.png"
+        },
+        "statistics": [
+            {
+                "team": {
+                    "id": 121,
+                    "name": "Palmeiras",
+                    "logo": "https://media.api-sports.io/football/teams/121.png"
+                },
+                "league": {
+                    "id": 13,
+                    "name": "CONMEBOL Libertadores",
+                    "country": "World",
+                    "logo": "https://media.api-sports.io/football/leagues/13.png",
+                    "flag": null,
+                    "season": 2024
+                },
+                "games": {
+                    "appearences": 5,
+                    "lineups": 1,
+                    "minutes": 122,
+                    "number": null,
+                    "position": "Defender",
+                    "rating": "6.540000",
+                    "captain": false
+                },
+                "substitutes": {
+                    "in": 4,
+                    "out": 1,
+                    "bench": 4
+                },
+                "shots": {
+                    "total": null,
+                    "on": null
+                },
+                "goals": {
+                    "total": 0,
+                    "conceded": 0,
+                    "assists": 0,
+                    "saves": null
+                },
+                "passes": {
+                    "total": 53,
+                    "key": 3,
+                    "accuracy": 8
+                },
+                "tackles": {
+                    "total": null,
+                    "blocks": null,
+                    "interceptions": null
+                },
+                "duels": {
+                    "total": 7,
+                    "won": 2
+                },
+                "dribbles": {
+                    "attempts": 2,
+                    "success": 1,
+                    "past": null
+                },
+                "fouls": {
+                    "drawn": null,
+                    "committed": 1
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellowred": 0,
+                    "red": 0
+                },
+                "penalty": {
+                    "won": null,
+                    "commited": null,
+                    "scored": 0,
+                    "missed": 0,
+                    "saved": null
+                }
+            }
+        ],
+        "total_goals": 0,
+        "total_dribbles": 1,
+        "total_desarmes": 0,
+        "total_passes": 53,
+        "total_appearances": 5,
+        "total_defesas": 0
+    },
+    "9920": {
+        "player": {
+            "id": 9920,
+            "name": "Raphael Veiga",
+            "firstname": "Raphael",
+            "lastname": "Cavalcante Veiga",
+            "age": 29,
+            "birth": {
+                "date": "1995-06-19",
+                "place": "São Paulo",
+                "country": "Brazil"
+            },
+            "nationality": "Brazil",
+            "height": "178 cm",
+            "weight": "77 kg",
+            "injured": false,
+            "photo": "https://media.api-sports.io/football/players/9920.png"
+        },
+        "statistics": [
+            {
+                "team": {
+                    "id": 121,
+                    "name": "Palmeiras",
+                    "logo": "https://media.api-sports.io/football/teams/121.png"
+                },
+                "league": {
+                    "id": 13,
+                    "name": "CONMEBOL Libertadores",
+                    "country": "World",
+                    "logo": "https://media.api-sports.io/football/leagues/13.png",
+                    "flag": null,
+                    "season": 2024
+                },
+                "games": {
+                    "appearences": 6,
+                    "lineups": 5,
+                    "minutes": 403,
+                    "number": null,
+                    "position": "Midfielder",
+                    "rating": "7.483333",
+                    "captain": false
+                },
+                "substitutes": {
+                    "in": 1,
+                    "out": 4,
+                    "bench": 1
+                },
+                "shots": {
+                    "total": 7,
+                    "on": 3
+                },
+                "goals": {
+                    "total": 2,
+                    "conceded": 0,
+                    "assists": 3,
+                    "saves": null
+                },
+                "passes": {
+                    "total": 134,
+                    "key": 16,
+                    "accuracy": 18
+                },
+                "tackles": {
+                    "total": 3,
+                    "blocks": null,
+                    "interceptions": 2
+                },
+                "duels": {
+                    "total": 32,
+                    "won": 13
+                },
+                "dribbles": {
+                    "attempts": 5,
+                    "success": 3,
+                    "past": null
+                },
+                "fouls": {
+                    "drawn": 7,
+                    "committed": 5
+                },
+                "cards": {
+                    "yellow": 1,
+                    "yellowred": 0,
+                    "red": 0
+                },
+                "penalty": {
+                    "won": null,
+                    "commited": null,
+                    "scored": 0,
+                    "missed": 0,
+                    "saved": null
+                }
+            }
+        ],
+        "total_goals": 2,
+        "total_dribbles": 3,
+        "total_desarmes": 3,
+        "total_passes": 134,
+        "total_appearances": 6,
+        "total_defesas": 0
+    },
+    "9932": {
+        "player": {
+            "id": 9932,
+            "name": "Zé Rafael",
+            "firstname": "José Rafael",
+            "lastname": "Vivian",
+            "age": 31,
+            "birth": {
+                "date": "1993-06-16",
+                "place": "Ponta Grossa",
+                "country": "Brazil"
+            },
+            "nationality": "Brazil",
+            "height": "175 cm",
+            "weight": "71 kg",
+            "injured": false,
+            "photo": "https://media.api-sports.io/football/players/9932.png"
+        },
+        "statistics": [
+            {
+                "team": {
+                    "id": 121,
+                    "name": "Palmeiras",
+                    "logo": "https://media.api-sports.io/football/teams/121.png"
+                },
+                "league": {
+                    "id": 13,
+                    "name": "CONMEBOL Libertadores",
+                    "country": "World",
+                    "logo": "https://media.api-sports.io/football/leagues/13.png",
+                    "flag": null,
+                    "season": 2024
+                },
+                "games": {
+                    "appearences": 2,
+                    "lineups": 1,
+                    "minutes": 118,
+                    "number": null,
+                    "position": "Midfielder",
+                    "rating": "6.650000",
+                    "captain": false
+                },
+                "substitutes": {
+                    "in": 1,
+                    "out": 0,
+                    "bench": 3
+                },
+                "shots": {
+                    "total": 1,
+                    "on": null
+                },
+                "goals": {
+                    "total": 0,
+                    "conceded": 0,
+                    "assists": null,
+                    "saves": null
+                },
+                "passes": {
+                    "total": 39,
+                    "key": null,
+                    "accuracy": 18
+                },
+                "tackles": {
+                    "total": 4,
+                    "blocks": null,
+                    "interceptions": 1
+                },
+                "duels": {
+                    "total": 16,
+                    "won": 8
+                },
+                "dribbles": {
+                    "attempts": 3,
+                    "success": 2,
+                    "past": null
+                },
+                "fouls": {
+                    "drawn": 1,
+                    "committed": 2
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellowred": 0,
+                    "red": 0
+                },
+                "penalty": {
+                    "won": null,
+                    "commited": null,
+                    "scored": 0,
+                    "missed": 0,
+                    "saved": null
+                }
+            }
+        ],
+        "total_goals": 0,
+        "total_dribbles": 2,
+        "total_desarmes": 4,
+        "total_passes": 39,
+        "total_appearances": 2,
+        "total_defesas": 0
+    },
+    "9939": {
+        "player": {
+            "id": 9939,
+            "name": "Dudu",
+            "firstname": "Eduardo",
+            "lastname": "Pereira Rodrigues",
+            "age": 32,
+            "birth": {
+                "date": "1992-01-07",
+                "place": "Goiânia",
+                "country": "Brazil"
+            },
+            "nationality": "Brazil",
+            "height": "167 cm",
+            "weight": "66 kg",
+            "injured": false,
+            "photo": "https://media.api-sports.io/football/players/9939.png"
+        },
+        "statistics": [
+            {
+                "team": {
+                    "id": 121,
+                    "name": "Palmeiras",
+                    "logo": "https://media.api-sports.io/football/teams/121.png"
+                },
+                "league": {
+                    "id": 13,
+                    "name": "CONMEBOL Libertadores",
+                    "country": "World",
+                    "logo": "https://media.api-sports.io/football/leagues/13.png",
+                    "flag": null,
+                    "season": 2024
+                },
+                "games": {
+                    "appearences": 0,
+                    "lineups": 0,
+                    "minutes": 0,
+                    "number": null,
+                    "position": "Attacker",
+                    "rating": null,
+                    "captain": false
+                },
+                "substitutes": {
+                    "in": 0,
+                    "out": 0,
+                    "bench": 0
+                },
+                "shots": {
+                    "total": null,
+                    "on": null
+                },
+                "goals": {
+                    "total": 0,
+                    "conceded": null,
+                    "assists": null,
+                    "saves": null
+                },
+                "passes": {
+                    "total": null,
+                    "key": null,
+                    "accuracy": null
+                },
+                "tackles": {
+                    "total": null,
+                    "blocks": null,
+                    "interceptions": null
+                },
+                "duels": {
+                    "total": null,
+                    "won": null
+                },
+                "dribbles": {
+                    "attempts": null,
+                    "success": null,
+                    "past": null
+                },
+                "fouls": {
+                    "drawn": null,
+                    "committed": null
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellowred": 0,
+                    "red": 0
+                },
+                "penalty": {
+                    "won": null,
+                    "commited": null,
+                    "scored": null,
+                    "missed": null,
+                    "saved": null
+                }
+            }
+        ],
+        "total_goals": 0,
+        "total_dribbles": 0,
+        "total_desarmes": 0,
+        "total_passes": 0,
+        "total_appearances": 0,
+        "total_defesas": 0
+    },
+    "10083": {
+        "player": {
+            "id": 10083,
+            "name": "Murilo",
+            "firstname": "Murilo",
+            "lastname": "Cerqueira Paim",
+            "age": 27,
+            "birth": {
+                "date": "1997-03-27",
+                "place": "São Gonçalo dos Campos",
+                "country": "Brazil"
+            },
+            "nationality": "Brazil",
+            "height": "188 cm",
+            "weight": "85 kg",
+            "injured": false,
+            "photo": "https://media.api-sports.io/football/players/10083.png"
+        },
+        "statistics": [
+            {
+                "team": {
+                    "id": 121,
+                    "name": "Palmeiras",
+                    "logo": "https://media.api-sports.io/football/teams/121.png"
+                },
+                "league": {
+                    "id": 13,
+                    "name": "CONMEBOL Libertadores",
+                    "country": "World",
+                    "logo": "https://media.api-sports.io/football/leagues/13.png",
+                    "flag": null,
+                    "season": 2024
+                },
+                "games": {
+                    "appearences": 5,
+                    "lineups": 5,
+                    "minutes": 450,
+                    "number": null,
+                    "position": "Defender",
+                    "rating": "7.440000",
+                    "captain": false
+                },
+                "substitutes": {
+                    "in": 0,
+                    "out": 0,
+                    "bench": 1
+                },
+                "shots": {
+                    "total": 7,
+                    "on": 4
+                },
+                "goals": {
+                    "total": 0,
+                    "conceded": 0,
+                    "assists": 0,
+                    "saves": null
+                },
+                "passes": {
+                    "total": 247,
+                    "key": 4,
+                    "accuracy": 39
+                },
+                "tackles": {
+                    "total": 11,
+                    "blocks": 3,
+                    "interceptions": 7
+                },
+                "duels": {
+                    "total": 48,
+                    "won": 37
+                },
+                "dribbles": {
+                    "attempts": 3,
+                    "success": 3,
+                    "past": null
+                },
+                "fouls": {
+                    "drawn": 1,
+                    "committed": 6
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellowred": 0,
+                    "red": 0
+                },
+                "penalty": {
+                    "won": null,
+                    "commited": null,
+                    "scored": 0,
+                    "missed": 0,
+                    "saved": null
+                }
+            }
+        ],
+        "total_goals": 0,
+        "total_dribbles": 3,
+        "total_desarmes": 11,
+        "total_passes": 247,
+        "total_appearances": 5,
+        "total_defesas": 0
+    },
+    "10143": {
+        "player": {
+            "id": 10143,
+            "name": "Rony",
+            "firstname": "Ronielson",
+            "lastname": "da Silva Barbosa",
+            "age": 29,
+            "birth": {
+                "date": "1995-05-11",
+                "place": "Magalhães Barata",
+                "country": "Brazil"
+            },
+            "nationality": "Brazil",
+            "height": "167 cm",
+            "weight": "65 kg",
+            "injured": false,
+            "photo": "https://media.api-sports.io/football/players/10143.png"
+        },
+        "statistics": [
+            {
+                "team": {
+                    "id": 121,
+                    "name": "Palmeiras",
+                    "logo": "https://media.api-sports.io/football/teams/121.png"
+                },
+                "league": {
+                    "id": 13,
+                    "name": "CONMEBOL Libertadores",
+                    "country": "World",
+                    "logo": "https://media.api-sports.io/football/leagues/13.png",
+                    "flag": null,
+                    "season": 2024
+                },
+                "games": {
+                    "appearences": 7,
+                    "lineups": 3,
+                    "minutes": 334,
+                    "number": null,
+                    "position": "Attacker",
+                    "rating": "7.157142",
+                    "captain": false
+                },
+                "substitutes": {
+                    "in": 4,
+                    "out": 2,
+                    "bench": 4
+                },
+                "shots": {
+                    "total": 11,
+                    "on": 4
+                },
+                "goals": {
+                    "total": 1,
+                    "conceded": 0,
+                    "assists": 3,
+                    "saves": null
+                },
+                "passes": {
+                    "total": 53,
+                    "key": 6,
+                    "accuracy": 6
+                },
+                "tackles": {
+                    "total": 1,
+                    "blocks": null,
+                    "interceptions": 3
+                },
+                "duels": {
+                    "total": 44,
+                    "won": 20
+                },
+                "dribbles": {
+                    "attempts": 6,
+                    "success": 2,
+                    "past": null
+                },
+                "fouls": {
+                    "drawn": 8,
+                    "committed": 3
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellowred": 0,
+                    "red": 0
+                },
+                "penalty": {
+                    "won": null,
+                    "commited": null,
+                    "scored": 0,
+                    "missed": 0,
+                    "saved": null
+                }
+            }
+        ],
+        "total_goals": 1,
+        "total_dribbles": 2,
+        "total_desarmes": 1,
+        "total_passes": 53,
+        "total_appearances": 7,
+        "total_defesas": 0
+    },
+    "10372": {
+        "player": {
+            "id": 10372,
+            "name": "Marcelo Lomba",
+            "firstname": "Marcelo",
+            "lastname": "Lomba do Nascimento",
+            "age": 38,
+            "birth": {
+                "date": "1986-12-18",
+                "place": "Rio de Janeiro",
+                "country": "Brazil"
+            },
+            "nationality": "Brazil",
+            "height": "189 cm",
+            "weight": "85 kg",
+            "injured": false,
+            "photo": "https://media.api-sports.io/football/players/10372.png"
+        },
+        "statistics": [
+            {
+                "team": {
+                    "id": 121,
+                    "name": "Palmeiras",
+                    "logo": "https://media.api-sports.io/football/teams/121.png"
+                },
+                "league": {
+                    "id": 13,
+                    "name": "CONMEBOL Libertadores",
+                    "country": "World",
+                    "logo": "https://media.api-sports.io/football/leagues/13.png",
+                    "flag": null,
+                    "season": 2024
+                },
+                "games": {
+                    "appearences": 1,
+                    "lineups": 1,
+                    "minutes": 90,
+                    "number": null,
+                    "position": "Goalkeeper",
+                    "rating": "7.700000",
+                    "captain": false
+                },
+                "substitutes": {
+                    "in": 0,
+                    "out": 0,
+                    "bench": 6
+                },
+                "shots": {
+                    "total": null,
+                    "on": null
+                },
+                "goals": {
+                    "total": 0,
+                    "conceded": 1,
+                    "assists": null,
+                    "saves": 4
+                },
+                "passes": {
+                    "total": 19,
+                    "key": null,
+                    "accuracy": 15
+                },
+                "tackles": {
+                    "total": null,
+                    "blocks": null,
+                    "interceptions": null
+                },
+                "duels": {
+                    "total": null,
+                    "won": null
+                },
+                "dribbles": {
+                    "attempts": null,
+                    "success": null,
+                    "past": null
+                },
+                "fouls": {
+                    "drawn": null,
+                    "committed": null
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellowred": 0,
+                    "red": 0
+                },
+                "penalty": {
+                    "won": null,
+                    "commited": null,
+                    "scored": 0,
+                    "missed": 0,
+                    "saved": 0
+                }
+            }
+        ],
+        "total_goals": 0,
+        "total_dribbles": 0,
+        "total_desarmes": 0,
+        "total_passes": 19,
+        "total_appearances": 1,
+        "total_defesas": 4
+    },
+    "10527": {
+        "player": {
+            "id": 10527,
+            "name": "Caio Paulista",
+            "firstname": "Caio Fernando",
+            "lastname": "de Oliveira",
+            "age": 26,
+            "birth": {
+                "date": "1998-05-11",
+                "place": "São Paulo",
+                "country": "Brazil"
+            },
+            "nationality": "Brazil",
+            "height": "183 cm",
+            "weight": "77 kg",
+            "injured": false,
+            "photo": "https://media.api-sports.io/football/players/10527.png"
+        },
+        "statistics": [
+            {
+                "team": {
+                    "id": 121,
+                    "name": "Palmeiras",
+                    "logo": "https://media.api-sports.io/football/teams/121.png"
+                },
+                "league": {
+                    "id": 13,
+                    "name": "CONMEBOL Libertadores",
+                    "country": "World",
+                    "logo": "https://media.api-sports.io/football/leagues/13.png",
+                    "flag": null,
+                    "season": 2024
+                },
+                "games": {
+                    "appearences": 1,
+                    "lineups": 1,
+                    "minutes": 53,
+                    "number": null,
+                    "position": "Midfielder",
+                    "rating": "6.200000",
+                    "captain": false
+                },
+                "substitutes": {
+                    "in": 0,
+                    "out": 1,
+                    "bench": 6
+                },
+                "shots": {
+                    "total": null,
+                    "on": null
+                },
+                "goals": {
+                    "total": 0,
+                    "conceded": 0,
+                    "assists": null,
+                    "saves": null
+                },
+                "passes": {
+                    "total": 21,
+                    "key": null,
+                    "accuracy": 18
+                },
+                "tackles": {
+                    "total": 1,
+                    "blocks": null,
+                    "interceptions": 1
+                },
+                "duels": {
+                    "total": 3,
+                    "won": 1
+                },
+                "dribbles": {
+                    "attempts": 1,
+                    "success": null,
+                    "past": null
+                },
+                "fouls": {
+                    "drawn": null,
+                    "committed": null
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellowred": 0,
+                    "red": 0
+                },
+                "penalty": {
+                    "won": null,
+                    "commited": null,
+                    "scored": 0,
+                    "missed": 0,
+                    "saved": null
+                }
+            }
+        ],
+        "total_goals": 0,
+        "total_dribbles": 0,
+        "total_desarmes": 1,
+        "total_passes": 21,
+        "total_appearances": 1,
+        "total_defesas": 0
+    },
+    "51466": {
+        "player": {
+            "id": 51466,
+            "name": "J. Piquerez",
+            "firstname": "Joaquín",
+            "lastname": "Piquerez Moreira",
+            "age": 26,
+            "birth": {
+                "date": "1998-08-24",
+                "place": "Montevideo",
+                "country": "Uruguay"
+            },
+            "nationality": "Uruguay",
+            "height": "184 cm",
+            "weight": "81 kg",
+            "injured": false,
+            "photo": "https://media.api-sports.io/football/players/51466.png"
+        },
+        "statistics": [
+            {
+                "team": {
+                    "id": 121,
+                    "name": "Palmeiras",
+                    "logo": "https://media.api-sports.io/football/teams/121.png"
+                },
+                "league": {
+                    "id": 13,
+                    "name": "CONMEBOL Libertadores",
+                    "country": "World",
+                    "logo": "https://media.api-sports.io/football/leagues/13.png",
+                    "flag": null,
+                    "season": 2024
+                },
+                "games": {
+                    "appearences": 6,
+                    "lineups": 5,
+                    "minutes": 482,
+                    "number": null,
+                    "position": "Defender",
+                    "rating": "7.100000",
+                    "captain": false
+                },
+                "substitutes": {
+                    "in": 1,
+                    "out": 1,
+                    "bench": 1
+                },
+                "shots": {
+                    "total": 4,
+                    "on": 2
+                },
+                "goals": {
+                    "total": 1,
+                    "conceded": 0,
+                    "assists": 0,
+                    "saves": null
+                },
+                "passes": {
+                    "total": 202,
+                    "key": 5,
+                    "accuracy": 26
+                },
+                "tackles": {
+                    "total": 12,
+                    "blocks": null,
+                    "interceptions": 4
+                },
+                "duels": {
+                    "total": 38,
+                    "won": 20
+                },
+                "dribbles": {
+                    "attempts": 3,
+                    "success": null,
+                    "past": null
+                },
+                "fouls": {
+                    "drawn": 4,
+                    "committed": 4
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellowred": 0,
+                    "red": 0
+                },
+                "penalty": {
+                    "won": null,
+                    "commited": null,
+                    "scored": 0,
+                    "missed": 0,
+                    "saved": null
+                }
+            }
+        ],
+        "total_goals": 1,
+        "total_dribbles": 0,
+        "total_desarmes": 12,
+        "total_passes": 202,
+        "total_appearances": 6,
+        "total_defesas": 0
+    },
+    "53966": {
+        "player": {
+            "id": 53966,
+            "name": "Breno Lopes",
+            "firstname": "Breno Henrique",
+            "lastname": "Vasconcelos Lopes",
+            "age": 28,
+            "birth": {
+                "date": "1996-01-24",
+                "place": "Belo Horizonte",
+                "country": "Brazil"
+            },
+            "nationality": "Brazil",
+            "height": "175 cm",
+            "weight": "79 kg",
+            "injured": false,
+            "photo": "https://media.api-sports.io/football/players/53966.png"
+        },
+        "statistics": [
+            {
+                "team": {
+                    "id": 121,
+                    "name": "Palmeiras",
+                    "logo": "https://media.api-sports.io/football/teams/121.png"
+                },
+                "league": {
+                    "id": 13,
+                    "name": "CONMEBOL Libertadores",
+                    "country": "World",
+                    "logo": "https://media.api-sports.io/football/leagues/13.png",
+                    "flag": null,
+                    "season": 2024
+                },
+                "games": {
+                    "appearences": 1,
+                    "lineups": 1,
+                    "minutes": 60,
+                    "number": null,
+                    "position": "Attacker",
+                    "rating": "6.700000",
+                    "captain": false
+                },
+                "substitutes": {
+                    "in": 0,
+                    "out": 1,
+                    "bench": 1
+                },
+                "shots": {
+                    "total": null,
+                    "on": null
+                },
+                "goals": {
+                    "total": 0,
+                    "conceded": 0,
+                    "assists": null,
+                    "saves": null
+                },
+                "passes": {
+                    "total": 12,
+                    "key": 1,
+                    "accuracy": 9
+                },
+                "tackles": {
+                    "total": null,
+                    "blocks": null,
+                    "interceptions": null
+                },
+                "duels": {
+                    "total": 10,
+                    "won": 4
+                },
+                "dribbles": {
+                    "attempts": 2,
+                    "success": 1,
+                    "past": null
+                },
+                "fouls": {
+                    "drawn": 2,
+                    "committed": 2
+                },
+                "cards": {
+                    "yellow": 1,
+                    "yellowred": 0,
+                    "red": 0
+                },
+                "penalty": {
+                    "won": null,
+                    "commited": null,
+                    "scored": 0,
+                    "missed": 0,
+                    "saved": null
+                }
+            }
+        ],
+        "total_goals": 0,
+        "total_dribbles": 1,
+        "total_desarmes": 0,
+        "total_passes": 12,
+        "total_appearances": 1,
+        "total_defesas": 0
+    },
+    "106485": {
+        "player": {
+            "id": 106485,
+            "name": "Maurício",
+            "firstname": "Maurício",
+            "lastname": "Magalhães Prado",
+            "age": 23,
+            "birth": {
+                "date": "2001-06-22",
+                "place": "São Paulo",
+                "country": "Brazil"
+            },
+            "nationality": "Brazil",
+            "height": "174 cm",
+            "weight": "77 kg",
+            "injured": false,
+            "photo": "https://media.api-sports.io/football/players/106485.png"
+        },
+        "statistics": [
+            {
+                "team": {
+                    "id": 121,
+                    "name": "Palmeiras",
+                    "logo": "https://media.api-sports.io/football/teams/121.png"
+                },
+                "league": {
+                    "id": 13,
+                    "name": "CONMEBOL Libertadores",
+                    "country": "World",
+                    "logo": "https://media.api-sports.io/football/leagues/13.png",
+                    "flag": null,
+                    "season": 2024
+                },
+                "games": {
+                    "appearences": 1,
+                    "lineups": 1,
+                    "minutes": 57,
+                    "number": null,
+                    "position": "Midfielder",
+                    "rating": "7.300000",
+                    "captain": false
+                },
+                "substitutes": {
+                    "in": 0,
+                    "out": 1,
+                    "bench": 0
+                },
+                "shots": {
+                    "total": 1,
+                    "on": 1
+                },
+                "goals": {
+                    "total": 1,
+                    "conceded": 0,
+                    "assists": 0,
+                    "saves": null
+                },
+                "passes": {
+                    "total": 14,
+                    "key": 1,
+                    "accuracy": 9
+                },
+                "tackles": {
+                    "total": 1,
+                    "blocks": null,
+                    "interceptions": 1
+                },
+                "duels": {
+                    "total": 6,
+                    "won": 3
+                },
+                "dribbles": {
+                    "attempts": 1,
+                    "success": null,
+                    "past": null
+                },
+                "fouls": {
+                    "drawn": 1,
+                    "committed": null
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellowred": 0,
+                    "red": 0
+                },
+                "penalty": {
+                    "won": null,
+                    "commited": null,
+                    "scored": 0,
+                    "missed": 0,
+                    "saved": null
+                }
+            }
+        ],
+        "total_goals": 1,
+        "total_dribbles": 0,
+        "total_desarmes": 1,
+        "total_passes": 14,
+        "total_appearances": 1,
+        "total_defesas": 0
+    },
+    "195104": {
+        "player": {
+            "id": 195104,
+            "name": "R. Rios",
+            "firstname": "Richard",
+            "lastname": "Ríos Montoya",
+            "age": 24,
+            "birth": {
+                "date": "2000-06-02",
+                "place": "Vegachí",
+                "country": "Colombia"
+            },
+            "nationality": "Colombia",
+            "height": "185 cm",
+            "weight": "74 kg",
+            "injured": false,
+            "photo": "https://media.api-sports.io/football/players/195104.png"
+        },
+        "statistics": [
+            {
+                "team": {
+                    "id": 121,
+                    "name": "Palmeiras",
+                    "logo": "https://media.api-sports.io/football/teams/121.png"
+                },
+                "league": {
+                    "id": 13,
+                    "name": "CONMEBOL Libertadores",
+                    "country": "World",
+                    "logo": "https://media.api-sports.io/football/leagues/13.png",
+                    "flag": null,
+                    "season": 2024
+                },
+                "games": {
+                    "appearences": 5,
+                    "lineups": 5,
+                    "minutes": 442,
+                    "number": null,
+                    "position": "Midfielder",
+                    "rating": "6.880000",
+                    "captain": false
+                },
+                "substitutes": {
+                    "in": 0,
+                    "out": 1,
+                    "bench": 1
+                },
+                "shots": {
+                    "total": 7,
+                    "on": 4
+                },
+                "goals": {
+                    "total": 1,
+                    "conceded": 0,
+                    "assists": 0,
+                    "saves": null
+                },
+                "passes": {
+                    "total": 186,
+                    "key": 2,
+                    "accuracy": 30
+                },
+                "tackles": {
+                    "total": 10,
+                    "blocks": null,
+                    "interceptions": 4
+                },
+                "duels": {
+                    "total": 66,
+                    "won": 29
+                },
+                "dribbles": {
+                    "attempts": 10,
+                    "success": 4,
+                    "past": null
+                },
+                "fouls": {
+                    "drawn": 9,
+                    "committed": 11
+                },
+                "cards": {
+                    "yellow": 3,
+                    "yellowred": 0,
+                    "red": 0
+                },
+                "penalty": {
+                    "won": null,
+                    "commited": null,
+                    "scored": 0,
+                    "missed": 0,
+                    "saved": null
+                }
+            }
+        ],
+        "total_goals": 1,
+        "total_dribbles": 4,
+        "total_desarmes": 10,
+        "total_passes": 186,
+        "total_appearances": 5,
+        "total_defesas": 0
+    },
+    "195111": {
+        "player": {
+            "id": 195111,
+            "name": "Gabriel Menino",
+            "firstname": "Gabriel Vinicius",
+            "lastname": "Menino",
+            "age": 24,
+            "birth": {
+                "date": "2000-09-29",
+                "place": null,
+                "country": "Brazil"
+            },
+            "nationality": "Brazil",
+            "height": "177 cm",
+            "weight": "78 kg",
+            "injured": false,
+            "photo": "https://media.api-sports.io/football/players/195111.png"
+        },
+        "statistics": [
+            {
+                "team": {
+                    "id": 121,
+                    "name": "Palmeiras",
+                    "logo": "https://media.api-sports.io/football/teams/121.png"
+                },
+                "league": {
+                    "id": 13,
+                    "name": "CONMEBOL Libertadores",
+                    "country": "World",
+                    "logo": "https://media.api-sports.io/football/leagues/13.png",
+                    "flag": null,
+                    "season": 2024
+                },
+                "games": {
+                    "appearences": 4,
+                    "lineups": 2,
+                    "minutes": 181,
+                    "number": null,
+                    "position": "Midfielder",
+                    "rating": "6.900000",
+                    "captain": false
+                },
+                "substitutes": {
+                    "in": 2,
+                    "out": 1,
+                    "bench": 5
+                },
+                "shots": {
+                    "total": 2,
+                    "on": null
+                },
+                "goals": {
+                    "total": 0,
+                    "conceded": 0,
+                    "assists": 0,
+                    "saves": null
+                },
+                "passes": {
+                    "total": 118,
+                    "key": 4,
+                    "accuracy": 25
+                },
+                "tackles": {
+                    "total": 3,
+                    "blocks": null,
+                    "interceptions": 1
+                },
+                "duels": {
+                    "total": 21,
+                    "won": 9
+                },
+                "dribbles": {
+                    "attempts": 5,
+                    "success": 3,
+                    "past": null
+                },
+                "fouls": {
+                    "drawn": null,
+                    "committed": 5
+                },
+                "cards": {
+                    "yellow": 1,
+                    "yellowred": 0,
+                    "red": 0
+                },
+                "penalty": {
+                    "won": null,
+                    "commited": null,
+                    "scored": 0,
+                    "missed": 0,
+                    "saved": null
+                }
+            }
+        ],
+        "total_goals": 0,
+        "total_dribbles": 3,
+        "total_desarmes": 3,
+        "total_passes": 118,
+        "total_appearances": 4,
+        "total_defesas": 0
+    },
+    "237101": {
+        "player": {
+            "id": 237101,
+            "name": "Gustavo Garcia",
+            "firstname": "Gustavo",
+            "lastname": "Garcia dos Santos",
+            "age": 22,
+            "birth": {
+                "date": "2002-01-04",
+                "place": null,
+                "country": "Brazil"
+            },
+            "nationality": "Brazil",
+            "height": "177 cm",
+            "weight": "68 kg",
+            "injured": false,
+            "photo": "https://media.api-sports.io/football/players/237101.png"
+        },
+        "statistics": [
+            {
+                "team": {
+                    "id": 121,
+                    "name": "Palmeiras",
+                    "logo": "https://media.api-sports.io/football/teams/121.png"
+                },
+                "league": {
+                    "id": 13,
+                    "name": "CONMEBOL Libertadores",
+                    "country": "World",
+                    "logo": "https://media.api-sports.io/football/leagues/13.png",
+                    "flag": null,
+                    "season": 2024
+                },
+                "games": {
+                    "appearences": 1,
+                    "lineups": 1,
+                    "minutes": 90,
+                    "number": null,
+                    "position": "Defender",
+                    "rating": "6.900000",
+                    "captain": false
+                },
+                "substitutes": {
+                    "in": 0,
+                    "out": 0,
+                    "bench": 2
+                },
+                "shots": {
+                    "total": null,
+                    "on": null
+                },
+                "goals": {
+                    "total": 0,
+                    "conceded": 0,
+                    "assists": null,
+                    "saves": null
+                },
+                "passes": {
+                    "total": 27,
+                    "key": null,
+                    "accuracy": 20
+                },
+                "tackles": {
+                    "total": 1,
+                    "blocks": null,
+                    "interceptions": 2
+                },
+                "duels": {
+                    "total": 7,
+                    "won": 4
+                },
+                "dribbles": {
+                    "attempts": 1,
+                    "success": 1,
+                    "past": null
+                },
+                "fouls": {
+                    "drawn": 1,
+                    "committed": null
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellowred": 0,
+                    "red": 0
+                },
+                "penalty": {
+                    "won": null,
+                    "commited": null,
+                    "scored": 0,
+                    "missed": 0,
+                    "saved": null
+                }
+            }
+        ],
+        "total_goals": 0,
+        "total_dribbles": 1,
+        "total_desarmes": 1,
+        "total_passes": 27,
+        "total_appearances": 1,
+        "total_defesas": 0
+    },
+    "237103": {
+        "player": {
+            "id": 237103,
+            "name": "Lázaro",
+            "firstname": "Lázaro Vinícius",
+            "lastname": "Marques",
+            "age": 22,
+            "birth": {
+                "date": "2002-03-12",
+                "place": "Belo Horizonte",
+                "country": "Brazil"
+            },
+            "nationality": "Brazil",
+            "height": "180 cm",
+            "weight": "67 kg",
+            "injured": false,
+            "photo": "https://media.api-sports.io/football/players/237103.png"
+        },
+        "statistics": [
+            {
+                "team": {
+                    "id": 121,
+                    "name": "Palmeiras",
+                    "logo": "https://media.api-sports.io/football/teams/121.png"
+                },
+                "league": {
+                    "id": 13,
+                    "name": "CONMEBOL Libertadores",
+                    "country": "World",
+                    "logo": "https://media.api-sports.io/football/leagues/13.png",
+                    "flag": null,
+                    "season": 2024
+                },
+                "games": {
+                    "appearences": 5,
+                    "lineups": 3,
+                    "minutes": 284,
+                    "number": null,
+                    "position": "Attacker",
+                    "rating": "6.960000",
+                    "captain": false
+                },
+                "substitutes": {
+                    "in": 2,
+                    "out": 3,
+                    "bench": 4
+                },
+                "shots": {
+                    "total": 2,
+                    "on": 1
+                },
+                "goals": {
+                    "total": 1,
+                    "conceded": 0,
+                    "assists": 1,
+                    "saves": null
+                },
+                "passes": {
+                    "total": 88,
+                    "key": 2,
+                    "accuracy": 13
+                },
+                "tackles": {
+                    "total": 4,
+                    "blocks": null,
+                    "interceptions": null
+                },
+                "duels": {
+                    "total": 42,
+                    "won": 17
+                },
+                "dribbles": {
+                    "attempts": 13,
+                    "success": 5,
+                    "past": null
+                },
+                "fouls": {
+                    "drawn": 7,
+                    "committed": 2
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellowred": 0,
+                    "red": 0
+                },
+                "penalty": {
+                    "won": null,
+                    "commited": null,
+                    "scored": 0,
+                    "missed": 0,
+                    "saved": null
+                }
+            }
+        ],
+        "total_goals": 1,
+        "total_dribbles": 5,
+        "total_desarmes": 4,
+        "total_passes": 88,
+        "total_appearances": 5,
+        "total_defesas": 0
+    },
+    "278331": {
+        "player": {
+            "id": 278331,
+            "name": "Mateus Oliveira",
+            "firstname": "Mateus",
+            "lastname": "Oliveira Mendes",
+            "age": 22,
+            "birth": {
+                "date": "2002-05-02",
+                "place": "Cajazeiras",
+                "country": "Brazil"
+            },
+            "nationality": "Brazil",
+            "height": "199 cm",
+            "weight": "89 kg",
+            "injured": false,
+            "photo": "https://media.api-sports.io/football/players/278331.png"
+        },
+        "statistics": [
+            {
+                "team": {
+                    "id": 121,
+                    "name": "Palmeiras",
+                    "logo": "https://media.api-sports.io/football/teams/121.png"
+                },
+                "league": {
+                    "id": 13,
+                    "name": "CONMEBOL Libertadores",
+                    "country": "World",
+                    "logo": "https://media.api-sports.io/football/leagues/13.png",
+                    "flag": null,
+                    "season": 2024
+                },
+                "games": {
+                    "appearences": 0,
+                    "lineups": 0,
+                    "minutes": 0,
+                    "number": null,
+                    "position": "Goalkeeper",
+                    "rating": null,
+                    "captain": false
+                },
+                "substitutes": {
+                    "in": 0,
+                    "out": 0,
+                    "bench": 1
+                },
+                "shots": {
+                    "total": null,
+                    "on": null
+                },
+                "goals": {
+                    "total": 0,
+                    "conceded": 0,
+                    "assists": null,
+                    "saves": null
+                },
+                "passes": {
+                    "total": null,
+                    "key": null,
+                    "accuracy": null
+                },
+                "tackles": {
+                    "total": null,
+                    "blocks": null,
+                    "interceptions": null
+                },
+                "duels": {
+                    "total": null,
+                    "won": null
+                },
+                "dribbles": {
+                    "attempts": null,
+                    "success": null,
+                    "past": null
+                },
+                "fouls": {
+                    "drawn": null,
+                    "committed": null
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellowred": 0,
+                    "red": 0
+                },
+                "penalty": {
+                    "won": null,
+                    "commited": null,
+                    "scored": 0,
+                    "missed": 0,
+                    "saved": 0
+                }
+            }
+        ],
+        "total_goals": 0,
+        "total_dribbles": 0,
+        "total_desarmes": 0,
+        "total_passes": 0,
+        "total_appearances": 0,
+        "total_defesas": 0
+    },
+    "279800": {
+        "player": {
+            "id": 279800,
+            "name": "Vanderlan",
+            "firstname": "Vanderlan",
+            "lastname": "Barbosa da Silva",
+            "age": 22,
+            "birth": {
+                "date": "2002-09-07",
+                "place": null,
+                "country": "Brazil"
+            },
+            "nationality": "Brazil",
+            "height": "183 cm",
+            "weight": "74 kg",
+            "injured": false,
+            "photo": "https://media.api-sports.io/football/players/279800.png"
+        },
+        "statistics": [
+            {
+                "team": {
+                    "id": 121,
+                    "name": "Palmeiras",
+                    "logo": "https://media.api-sports.io/football/teams/121.png"
+                },
+                "league": {
+                    "id": 13,
+                    "name": "CONMEBOL Libertadores",
+                    "country": "World",
+                    "logo": "https://media.api-sports.io/football/leagues/13.png",
+                    "flag": null,
+                    "season": 2024
+                },
+                "games": {
+                    "appearences": 4,
+                    "lineups": 2,
+                    "minutes": 160,
+                    "number": null,
+                    "position": "Defender",
+                    "rating": "6.375000",
+                    "captain": false
+                },
+                "substitutes": {
+                    "in": 2,
+                    "out": 1,
+                    "bench": 5
+                },
+                "shots": {
+                    "total": 1,
+                    "on": 1
+                },
+                "goals": {
+                    "total": 0,
+                    "conceded": 0,
+                    "assists": 0,
+                    "saves": null
+                },
+                "passes": {
+                    "total": 69,
+                    "key": 1,
+                    "accuracy": 13
+                },
+                "tackles": {
+                    "total": 3,
+                    "blocks": null,
+                    "interceptions": 1
+                },
+                "duels": {
+                    "total": 17,
+                    "won": 7
+                },
+                "dribbles": {
+                    "attempts": 4,
+                    "success": 3,
+                    "past": null
+                },
+                "fouls": {
+                    "drawn": 1,
+                    "committed": 5
+                },
+                "cards": {
+                    "yellow": 2,
+                    "yellowred": 0,
+                    "red": 0
+                },
+                "penalty": {
+                    "won": null,
+                    "commited": null,
+                    "scored": 0,
+                    "missed": 0,
+                    "saved": null
+                }
+            }
+        ],
+        "total_goals": 0,
+        "total_dribbles": 3,
+        "total_desarmes": 3,
+        "total_passes": 69,
+        "total_appearances": 4,
+        "total_defesas": 0
+    },
+    "279805": {
+        "player": {
+            "id": 279805,
+            "name": "Fabinho",
+            "firstname": "Fábio",
+            "lastname": "Silva de Freitas",
+            "age": 22,
+            "birth": {
+                "date": "2002-04-09",
+                "place": "Natal",
+                "country": "Brazil"
+            },
+            "nationality": "Brazil",
+            "height": "178 cm",
+            "weight": "75 kg",
+            "injured": false,
+            "photo": "https://media.api-sports.io/football/players/279805.png"
+        },
+        "statistics": [
+            {
+                "team": {
+                    "id": 121,
+                    "name": "Palmeiras",
+                    "logo": "https://media.api-sports.io/football/teams/121.png"
+                },
+                "league": {
+                    "id": 13,
+                    "name": "CONMEBOL Libertadores",
+                    "country": "World",
+                    "logo": "https://media.api-sports.io/football/leagues/13.png",
+                    "flag": null,
+                    "season": 2024
+                },
+                "games": {
+                    "appearences": 1,
+                    "lineups": 0,
+                    "minutes": 19,
+                    "number": null,
+                    "position": "Midfielder",
+                    "rating": "6.200000",
+                    "captain": false
+                },
+                "substitutes": {
+                    "in": 1,
+                    "out": 0,
+                    "bench": 7
+                },
+                "shots": {
+                    "total": null,
+                    "on": null
+                },
+                "goals": {
+                    "total": 0,
+                    "conceded": 0,
+                    "assists": 0,
+                    "saves": null
+                },
+                "passes": {
+                    "total": 16,
+                    "key": null,
+                    "accuracy": 12
+                },
+                "tackles": {
+                    "total": null,
+                    "blocks": null,
+                    "interceptions": null
+                },
+                "duels": {
+                    "total": 2,
+                    "won": null
+                },
+                "dribbles": {
+                    "attempts": null,
+                    "success": null,
+                    "past": null
+                },
+                "fouls": {
+                    "drawn": null,
+                    "committed": 1
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellowred": 0,
+                    "red": 0
+                },
+                "penalty": {
+                    "won": null,
+                    "commited": null,
+                    "scored": 0,
+                    "missed": 0,
+                    "saved": null
+                }
+            }
+        ],
+        "total_goals": 0,
+        "total_dribbles": 0,
+        "total_desarmes": 0,
+        "total_passes": 16,
+        "total_appearances": 1,
+        "total_defesas": 0
+    },
+    "283701": {
+        "player": {
+            "id": 283701,
+            "name": "Daniel",
+            "firstname": "Daniel",
+            "lastname": "da Silva",
+            "age": 20,
+            "birth": {
+                "date": "2004-03-04",
+                "place": null,
+                "country": "Brazil"
+            },
+            "nationality": "Brazil",
+            "height": "181 cm",
+            "weight": "86 kg",
+            "injured": false,
+            "photo": "https://media.api-sports.io/football/players/283701.png"
+        },
+        "statistics": [
+            {
+                "team": {
+                    "id": 121,
+                    "name": "Palmeiras",
+                    "logo": "https://media.api-sports.io/football/teams/121.png"
+                },
+                "league": {
+                    "id": 13,
+                    "name": "CONMEBOL Libertadores",
+                    "country": "World",
+                    "logo": "https://media.api-sports.io/football/leagues/13.png",
+                    "flag": null,
+                    "season": 2024
+                },
+                "games": {
+                    "appearences": 0,
+                    "lineups": 0,
+                    "minutes": 0,
+                    "number": null,
+                    "position": "Attacker",
+                    "rating": null,
+                    "captain": false
+                },
+                "substitutes": {
+                    "in": 0,
+                    "out": 0,
+                    "bench": 0
+                },
+                "shots": {
+                    "total": null,
+                    "on": null
+                },
+                "goals": {
+                    "total": 0,
+                    "conceded": null,
+                    "assists": null,
+                    "saves": null
+                },
+                "passes": {
+                    "total": null,
+                    "key": null,
+                    "accuracy": null
+                },
+                "tackles": {
+                    "total": null,
+                    "blocks": null,
+                    "interceptions": null
+                },
+                "duels": {
+                    "total": null,
+                    "won": null
+                },
+                "dribbles": {
+                    "attempts": null,
+                    "success": null,
+                    "past": null
+                },
+                "fouls": {
+                    "drawn": null,
+                    "committed": null
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellowred": 0,
+                    "red": 0
+                },
+                "penalty": {
+                    "won": null,
+                    "commited": null,
+                    "scored": null,
+                    "missed": null,
+                    "saved": null
+                }
+            }
+        ],
+        "total_goals": 0,
+        "total_dribbles": 0,
+        "total_desarmes": 0,
+        "total_passes": 0,
+        "total_appearances": 0,
+        "total_defesas": 0
+    },
+    "290868": {
+        "player": {
+            "id": 290868,
+            "name": "Rômulo",
+            "firstname": "Rômulo",
+            "lastname": "Azevedo Simão",
+            "age": 23,
+            "birth": {
+                "date": "2001-10-07",
+                "place": "Pirassununga",
+                "country": "Brazil"
+            },
+            "nationality": "Brazil",
+            "height": "175 cm",
+            "weight": null,
+            "injured": false,
+            "photo": "https://media.api-sports.io/football/players/290868.png"
+        },
+        "statistics": [
+            {
+                "team": {
+                    "id": 121,
+                    "name": "Palmeiras",
+                    "logo": "https://media.api-sports.io/football/teams/121.png"
+                },
+                "league": {
+                    "id": 13,
+                    "name": "CONMEBOL Libertadores",
+                    "country": "World",
+                    "logo": "https://media.api-sports.io/football/leagues/13.png",
+                    "flag": null,
+                    "season": 2024
+                },
+                "games": {
+                    "appearences": 2,
+                    "lineups": 0,
+                    "minutes": 28,
+                    "number": null,
+                    "position": "Midfielder",
+                    "rating": "6.600000",
+                    "captain": false
+                },
+                "substitutes": {
+                    "in": 2,
+                    "out": 0,
+                    "bench": 6
+                },
+                "shots": {
+                    "total": null,
+                    "on": null
+                },
+                "goals": {
+                    "total": 0,
+                    "conceded": 0,
+                    "assists": 0,
+                    "saves": null
+                },
+                "passes": {
+                    "total": 17,
+                    "key": 1,
+                    "accuracy": 8
+                },
+                "tackles": {
+                    "total": 2,
+                    "blocks": null,
+                    "interceptions": null
+                },
+                "duels": {
+                    "total": 6,
+                    "won": 2
+                },
+                "dribbles": {
+                    "attempts": 2,
+                    "success": null,
+                    "past": null
+                },
+                "fouls": {
+                    "drawn": null,
+                    "committed": 1
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellowred": 0,
+                    "red": 0
+                },
+                "penalty": {
+                    "won": null,
+                    "commited": null,
+                    "scored": 0,
+                    "missed": 0,
+                    "saved": null
+                }
+            }
+        ],
+        "total_goals": 0,
+        "total_dribbles": 0,
+        "total_desarmes": 2,
+        "total_passes": 17,
+        "total_appearances": 2,
+        "total_defesas": 0
+    },
+    "295513": {
+        "player": {
+            "id": 295513,
+            "name": "J. López",
+            "firstname": "José Manuel Alberto",
+            "lastname": "López",
+            "age": 24,
+            "birth": {
+                "date": "2000-12-06",
+                "place": "San Lorenzo",
+                "country": "Argentina"
+            },
+            "nationality": "Argentina",
+            "height": "190 cm",
+            "weight": "74 kg",
+            "injured": false,
+            "photo": "https://media.api-sports.io/football/players/295513.png"
+        },
+        "statistics": [
+            {
+                "team": {
+                    "id": 121,
+                    "name": "Palmeiras",
+                    "logo": "https://media.api-sports.io/football/teams/121.png"
+                },
+                "league": {
+                    "id": 13,
+                    "name": "CONMEBOL Libertadores",
+                    "country": "World",
+                    "logo": "https://media.api-sports.io/football/leagues/13.png",
+                    "flag": null,
+                    "season": 2024
+                },
+                "games": {
+                    "appearences": 7,
+                    "lineups": 3,
+                    "minutes": 295,
+                    "number": null,
+                    "position": "Attacker",
+                    "rating": "7.042857",
+                    "captain": false
+                },
+                "substitutes": {
+                    "in": 4,
+                    "out": 3,
+                    "bench": 4
+                },
+                "shots": {
+                    "total": 7,
+                    "on": 5
+                },
+                "goals": {
+                    "total": 1,
+                    "conceded": 0,
+                    "assists": 2,
+                    "saves": null
+                },
+                "passes": {
+                    "total": 61,
+                    "key": 3,
+                    "accuracy": 4
+                },
+                "tackles": {
+                    "total": 5,
+                    "blocks": null,
+                    "interceptions": 1
+                },
+                "duels": {
+                    "total": 49,
+                    "won": 23
+                },
+                "dribbles": {
+                    "attempts": 7,
+                    "success": 5,
+                    "past": null
+                },
+                "fouls": {
+                    "drawn": 4,
+                    "committed": 7
+                },
+                "cards": {
+                    "yellow": 2,
+                    "yellowred": 0,
+                    "red": 0
+                },
+                "penalty": {
+                    "won": null,
+                    "commited": null,
+                    "scored": 0,
+                    "missed": 0,
+                    "saved": null
+                }
+            }
+        ],
+        "total_goals": 1,
+        "total_dribbles": 5,
+        "total_desarmes": 5,
+        "total_passes": 61,
+        "total_appearances": 7,
+        "total_defesas": 0
+    },
+    "306706": {
+        "player": {
+            "id": 306706,
+            "name": "A. Giay",
+            "firstname": "Agustín",
+            "lastname": "Giay",
+            "age": 20,
+            "birth": {
+                "date": "2004-01-16",
+                "place": null,
+                "country": "Argentina"
+            },
+            "nationality": "Argentina",
+            "height": "180 cm",
+            "weight": "73 kg",
+            "injured": false,
+            "photo": "https://media.api-sports.io/football/players/306706.png"
+        },
+        "statistics": [
+            {
+                "team": {
+                    "id": 121,
+                    "name": "Palmeiras",
+                    "logo": "https://media.api-sports.io/football/teams/121.png"
+                },
+                "league": {
+                    "id": 13,
+                    "name": "CONMEBOL Libertadores",
+                    "country": "World",
+                    "logo": "https://media.api-sports.io/football/leagues/13.png",
+                    "flag": null,
+                    "season": 2024
+                },
+                "games": {
+                    "appearences": 1,
+                    "lineups": 1,
+                    "minutes": 90,
+                    "number": null,
+                    "position": "Defender",
+                    "rating": "6.200000",
+                    "captain": false
+                },
+                "substitutes": {
+                    "in": 0,
+                    "out": 0,
+                    "bench": 0
+                },
+                "shots": {
+                    "total": null,
+                    "on": null
+                },
+                "goals": {
+                    "total": 0,
+                    "conceded": 0,
+                    "assists": 0,
+                    "saves": null
+                },
+                "passes": {
+                    "total": 41,
+                    "key": 1,
+                    "accuracy": 34
+                },
+                "tackles": {
+                    "total": 3,
+                    "blocks": null,
+                    "interceptions": 1
+                },
+                "duels": {
+                    "total": 9,
+                    "won": 4
+                },
+                "dribbles": {
+                    "attempts": 3,
+                    "success": null,
+                    "past": null
+                },
+                "fouls": {
+                    "drawn": 1,
+                    "committed": null
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellowred": 0,
+                    "red": 0
+                },
+                "penalty": {
+                    "won": null,
+                    "commited": null,
+                    "scored": 0,
+                    "missed": 0,
+                    "saved": null
+                }
+            }
+        ],
+        "total_goals": 0,
+        "total_dribbles": 0,
+        "total_desarmes": 3,
+        "total_passes": 41,
+        "total_appearances": 1,
+        "total_defesas": 0
+    },
+    "306800": {
+        "player": {
+            "id": 306800,
+            "name": "Jhon Jhon",
+            "firstname": "Jhonatan",
+            "lastname": "dos Santos Rosa",
+            "age": 22,
+            "birth": {
+                "date": "2002-09-09",
+                "place": null,
+                "country": "Brazil"
+            },
+            "nationality": "Brazil",
+            "height": "178 cm",
+            "weight": "73 kg",
+            "injured": false,
+            "photo": "https://media.api-sports.io/football/players/306800.png"
+        },
+        "statistics": [
+            {
+                "team": {
+                    "id": 121,
+                    "name": "Palmeiras",
+                    "logo": "https://media.api-sports.io/football/teams/121.png"
+                },
+                "league": {
+                    "id": 13,
+                    "name": "CONMEBOL Libertadores",
+                    "country": "World",
+                    "logo": "https://media.api-sports.io/football/leagues/13.png",
+                    "flag": null,
+                    "season": 2024
+                },
+                "games": {
+                    "appearences": 0,
+                    "lineups": 0,
+                    "minutes": 0,
+                    "number": null,
+                    "position": "Midfielder",
+                    "rating": null,
+                    "captain": false
+                },
+                "substitutes": {
+                    "in": 0,
+                    "out": 0,
+                    "bench": 1
+                },
+                "shots": {
+                    "total": null,
+                    "on": null
+                },
+                "goals": {
+                    "total": 0,
+                    "conceded": 0,
+                    "assists": null,
+                    "saves": null
+                },
+                "passes": {
+                    "total": null,
+                    "key": null,
+                    "accuracy": null
+                },
+                "tackles": {
+                    "total": null,
+                    "blocks": null,
+                    "interceptions": null
+                },
+                "duels": {
+                    "total": null,
+                    "won": null
+                },
+                "dribbles": {
+                    "attempts": null,
+                    "success": null,
+                    "past": null
+                },
+                "fouls": {
+                    "drawn": null,
+                    "committed": null
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellowred": 0,
+                    "red": 0
+                },
+                "penalty": {
+                    "won": null,
+                    "commited": null,
+                    "scored": 0,
+                    "missed": 0,
+                    "saved": null
+                }
+            }
+        ],
+        "total_goals": 0,
+        "total_dribbles": 0,
+        "total_desarmes": 0,
+        "total_passes": 0,
+        "total_appearances": 0,
+        "total_defesas": 0
+    },
+    "312311": {
+        "player": {
+            "id": 312311,
+            "name": "Michel",
+            "firstname": "Michel Augusto",
+            "lastname": "Modesto Rafael dos Santos",
+            "age": 21,
+            "birth": {
+                "date": "2003-05-20",
+                "place": "Avaré",
+                "country": "Brazil"
+            },
+            "nationality": "Brazil",
+            "height": "188 cm",
+            "weight": "83 kg",
+            "injured": false,
+            "photo": "https://media.api-sports.io/football/players/312311.png"
+        },
+        "statistics": [
+            {
+                "team": {
+                    "id": 121,
+                    "name": "Palmeiras",
+                    "logo": "https://media.api-sports.io/football/teams/121.png"
+                },
+                "league": {
+                    "id": 13,
+                    "name": "CONMEBOL Libertadores",
+                    "country": "World",
+                    "logo": "https://media.api-sports.io/football/leagues/13.png",
+                    "flag": null,
+                    "season": 2024
+                },
+                "games": {
+                    "appearences": 0,
+                    "lineups": 0,
+                    "minutes": 0,
+                    "number": null,
+                    "position": "Defender",
+                    "rating": null,
+                    "captain": false
+                },
+                "substitutes": {
+                    "in": 0,
+                    "out": 0,
+                    "bench": 0
+                },
+                "shots": {
+                    "total": null,
+                    "on": null
+                },
+                "goals": {
+                    "total": 0,
+                    "conceded": null,
+                    "assists": null,
+                    "saves": null
+                },
+                "passes": {
+                    "total": null,
+                    "key": null,
+                    "accuracy": null
+                },
+                "tackles": {
+                    "total": null,
+                    "blocks": null,
+                    "interceptions": null
+                },
+                "duels": {
+                    "total": null,
+                    "won": null
+                },
+                "dribbles": {
+                    "attempts": null,
+                    "success": null,
+                    "past": null
+                },
+                "fouls": {
+                    "drawn": null,
+                    "committed": null
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellowred": 0,
+                    "red": 0
+                },
+                "penalty": {
+                    "won": null,
+                    "commited": null,
+                    "scored": null,
+                    "missed": null,
+                    "saved": null
+                }
+            }
+        ],
+        "total_goals": 0,
+        "total_dribbles": 0,
+        "total_desarmes": 0,
+        "total_passes": 0,
+        "total_appearances": 0,
+        "total_defesas": 0
+    },
+    "348896": {
+        "player": {
+            "id": 348896,
+            "name": "Kaiky Naves",
+            "firstname": "Kaiky",
+            "lastname": "Marques Naves",
+            "age": 22,
+            "birth": {
+                "date": "2002-05-08",
+                "place": null,
+                "country": "Brazil"
+            },
+            "nationality": "Brazil",
+            "height": "180 cm",
+            "weight": "78 kg",
+            "injured": false,
+            "photo": "https://media.api-sports.io/football/players/348896.png"
+        },
+        "statistics": [
+            {
+                "team": {
+                    "id": 121,
+                    "name": "Palmeiras",
+                    "logo": "https://media.api-sports.io/football/teams/121.png"
+                },
+                "league": {
+                    "id": 13,
+                    "name": "CONMEBOL Libertadores",
+                    "country": "World",
+                    "logo": "https://media.api-sports.io/football/leagues/13.png",
+                    "flag": null,
+                    "season": 2024
+                },
+                "games": {
+                    "appearences": 1,
+                    "lineups": 1,
+                    "minutes": 90,
+                    "number": null,
+                    "position": "Defender",
+                    "rating": "7.200000",
+                    "captain": false
+                },
+                "substitutes": {
+                    "in": 0,
+                    "out": 0,
+                    "bench": 2
+                },
+                "shots": {
+                    "total": 1,
+                    "on": null
+                },
+                "goals": {
+                    "total": 0,
+                    "conceded": 0,
+                    "assists": null,
+                    "saves": null
+                },
+                "passes": {
+                    "total": 60,
+                    "key": 1,
+                    "accuracy": 53
+                },
+                "tackles": {
+                    "total": 2,
+                    "blocks": null,
+                    "interceptions": 3
+                },
+                "duels": {
+                    "total": 9,
+                    "won": 5
+                },
+                "dribbles": {
+                    "attempts": null,
+                    "success": null,
+                    "past": null
+                },
+                "fouls": {
+                    "drawn": 1,
+                    "committed": 1
+                },
+                "cards": {
+                    "yellow": 1,
+                    "yellowred": 0,
+                    "red": 0
+                },
+                "penalty": {
+                    "won": null,
+                    "commited": null,
+                    "scored": 0,
+                    "missed": 0,
+                    "saved": null
+                }
+            }
+        ],
+        "total_goals": 0,
+        "total_dribbles": 0,
+        "total_desarmes": 2,
+        "total_passes": 60,
+        "total_appearances": 1,
+        "total_defesas": 0
+    },
+    "348897": {
+        "player": {
+            "id": 348897,
+            "name": "Kaique",
+            "firstname": "Kaique",
+            "lastname": "Pereira Azarias",
+            "age": 21,
+            "birth": {
+                "date": "2003-04-16",
+                "place": "Pernambuco",
+                "country": "Brazil"
+            },
+            "nationality": "Brazil",
+            "height": "190 cm",
+            "weight": "86 kg",
+            "injured": false,
+            "photo": "https://media.api-sports.io/football/players/348897.png"
+        },
+        "statistics": [
+            {
+                "team": {
+                    "id": 121,
+                    "name": "Palmeiras",
+                    "logo": "https://media.api-sports.io/football/teams/121.png"
+                },
+                "league": {
+                    "id": 13,
+                    "name": "CONMEBOL Libertadores",
+                    "country": "World",
+                    "logo": "https://media.api-sports.io/football/leagues/13.png",
+                    "flag": null,
+                    "season": 2024
+                },
+                "games": {
+                    "appearences": 0,
+                    "lineups": 0,
+                    "minutes": 0,
+                    "number": null,
+                    "position": "Goalkeeper",
+                    "rating": null,
+                    "captain": false
+                },
+                "substitutes": {
+                    "in": 0,
+                    "out": 0,
+                    "bench": 1
+                },
+                "shots": {
+                    "total": null,
+                    "on": null
+                },
+                "goals": {
+                    "total": 0,
+                    "conceded": 0,
+                    "assists": null,
+                    "saves": null
+                },
+                "passes": {
+                    "total": null,
+                    "key": null,
+                    "accuracy": null
+                },
+                "tackles": {
+                    "total": null,
+                    "blocks": null,
+                    "interceptions": null
+                },
+                "duels": {
+                    "total": null,
+                    "won": null
+                },
+                "dribbles": {
+                    "attempts": null,
+                    "success": null,
+                    "past": null
+                },
+                "fouls": {
+                    "drawn": null,
+                    "committed": null
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellowred": 0,
+                    "red": 0
+                },
+                "penalty": {
+                    "won": null,
+                    "commited": null,
+                    "scored": 0,
+                    "missed": 0,
+                    "saved": 0
+                }
+            }
+        ],
+        "total_goals": 0,
+        "total_dribbles": 0,
+        "total_desarmes": 0,
+        "total_passes": 0,
+        "total_appearances": 0,
+        "total_defesas": 0
+    },
+    "353953": {
+        "player": {
+            "id": 353953,
+            "name": "Edney",
+            "firstname": "Edney Henrique",
+            "lastname": "Santos da Silva",
+            "age": 20,
+            "birth": {
+                "date": "2004-07-26",
+                "place": null,
+                "country": "Brazil"
+            },
+            "nationality": "Brazil",
+            "height": "175 cm",
+            "weight": "75 kg",
+            "injured": false,
+            "photo": "https://media.api-sports.io/football/players/353953.png"
+        },
+        "statistics": [
+            {
+                "team": {
+                    "id": 121,
+                    "name": "Palmeiras",
+                    "logo": "https://media.api-sports.io/football/teams/121.png"
+                },
+                "league": {
+                    "id": 13,
+                    "name": "CONMEBOL Libertadores",
+                    "country": "World",
+                    "logo": "https://media.api-sports.io/football/leagues/13.png",
+                    "flag": null,
+                    "season": 2024
+                },
+                "games": {
+                    "appearences": 0,
+                    "lineups": 0,
+                    "minutes": 0,
+                    "number": null,
+                    "position": "Attacker",
+                    "rating": null,
+                    "captain": false
+                },
+                "substitutes": {
+                    "in": 0,
+                    "out": 0,
+                    "bench": 0
+                },
+                "shots": {
+                    "total": null,
+                    "on": null
+                },
+                "goals": {
+                    "total": 0,
+                    "conceded": null,
+                    "assists": null,
+                    "saves": null
+                },
+                "passes": {
+                    "total": null,
+                    "key": null,
+                    "accuracy": null
+                },
+                "tackles": {
+                    "total": null,
+                    "blocks": null,
+                    "interceptions": null
+                },
+                "duels": {
+                    "total": null,
+                    "won": null
+                },
+                "dribbles": {
+                    "attempts": null,
+                    "success": null,
+                    "past": null
+                },
+                "fouls": {
+                    "drawn": null,
+                    "committed": null
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellowred": 0,
+                    "red": 0
+                },
+                "penalty": {
+                    "won": null,
+                    "commited": null,
+                    "scored": null,
+                    "missed": null,
+                    "saved": null
+                }
+            }
+        ],
+        "total_goals": 0,
+        "total_dribbles": 0,
+        "total_desarmes": 0,
+        "total_passes": 0,
+        "total_appearances": 0,
+        "total_defesas": 0
+    },
+    "377122": {
+        "player": {
+            "id": 377122,
+            "name": "Endrick",
+            "firstname": "Endrick Felipe",
+            "lastname": "Moreira de Sousa",
+            "age": 18,
+            "birth": {
+                "date": "2006-07-21",
+                "place": "Brasília",
+                "country": "Brazil"
+            },
+            "nationality": "Brazil",
+            "height": "173 cm",
+            "weight": "66 kg",
+            "injured": false,
+            "photo": "https://media.api-sports.io/football/players/377122.png"
+        },
+        "statistics": [
+            {
+                "team": {
+                    "id": 121,
+                    "name": "Palmeiras",
+                    "logo": "https://media.api-sports.io/football/teams/121.png"
+                },
+                "league": {
+                    "id": 13,
+                    "name": "CONMEBOL Libertadores",
+                    "country": "World",
+                    "logo": "https://media.api-sports.io/football/leagues/13.png",
+                    "flag": null,
+                    "season": 2024
+                },
+                "games": {
+                    "appearences": 5,
+                    "lineups": 4,
+                    "minutes": 297,
+                    "number": null,
+                    "position": "Attacker",
+                    "rating": "7.100000",
+                    "captain": false
+                },
+                "substitutes": {
+                    "in": 1,
+                    "out": 4,
+                    "bench": 1
+                },
+                "shots": {
+                    "total": 3,
+                    "on": 3
+                },
+                "goals": {
+                    "total": 2,
+                    "conceded": 0,
+                    "assists": 1,
+                    "saves": null
+                },
+                "passes": {
+                    "total": 41,
+                    "key": 4,
+                    "accuracy": 6
+                },
+                "tackles": {
+                    "total": 2,
+                    "blocks": null,
+                    "interceptions": null
+                },
+                "duels": {
+                    "total": 42,
+                    "won": 18
+                },
+                "dribbles": {
+                    "attempts": 12,
+                    "success": 5,
+                    "past": null
+                },
+                "fouls": {
+                    "drawn": 8,
+                    "committed": 7
+                },
+                "cards": {
+                    "yellow": 1,
+                    "yellowred": 0,
+                    "red": 0
+                },
+                "penalty": {
+                    "won": null,
+                    "commited": null,
+                    "scored": 0,
+                    "missed": 0,
+                    "saved": null
+                }
+            }
+        ],
+        "total_goals": 2,
+        "total_dribbles": 5,
+        "total_desarmes": 2,
+        "total_passes": 41,
+        "total_appearances": 5,
+        "total_defesas": 0
+    },
+    "404574": {
+        "player": {
+            "id": 404574,
+            "name": "Luis Guilherme",
+            "firstname": "Luis Guilherme",
+            "lastname": "Lira dos Santos",
+            "age": 18,
+            "birth": {
+                "date": "2006-02-09",
+                "place": "Aracaju",
+                "country": "Brazil"
+            },
+            "nationality": "Brazil",
+            "height": "178 cm",
+            "weight": "74 kg",
+            "injured": false,
+            "photo": "https://media.api-sports.io/football/players/404574.png"
+        },
+        "statistics": [
+            {
+                "team": {
+                    "id": 121,
+                    "name": "Palmeiras",
+                    "logo": "https://media.api-sports.io/football/teams/121.png"
+                },
+                "league": {
+                    "id": 13,
+                    "name": "CONMEBOL Libertadores",
+                    "country": "World",
+                    "logo": "https://media.api-sports.io/football/leagues/13.png",
+                    "flag": null,
+                    "season": 2024
+                },
+                "games": {
+                    "appearences": 5,
+                    "lineups": 2,
+                    "minutes": 219,
+                    "number": null,
+                    "position": "Attacker",
+                    "rating": "6.680000",
+                    "captain": false
+                },
+                "substitutes": {
+                    "in": 3,
+                    "out": 1,
+                    "bench": 4
+                },
+                "shots": {
+                    "total": 3,
+                    "on": 3
+                },
+                "goals": {
+                    "total": 1,
+                    "conceded": 0,
+                    "assists": 0,
+                    "saves": null
+                },
+                "passes": {
+                    "total": 64,
+                    "key": 1,
+                    "accuracy": 10
+                },
+                "tackles": {
+                    "total": 3,
+                    "blocks": null,
+                    "interceptions": 2
+                },
+                "duels": {
+                    "total": 39,
+                    "won": 16
+                },
+                "dribbles": {
+                    "attempts": 11,
+                    "success": 3,
+                    "past": null
+                },
+                "fouls": {
+                    "drawn": 10,
+                    "committed": 5
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellowred": 0,
+                    "red": 0
+                },
+                "penalty": {
+                    "won": null,
+                    "commited": null,
+                    "scored": 0,
+                    "missed": 0,
+                    "saved": null
+                }
+            }
+        ],
+        "total_goals": 1,
+        "total_dribbles": 3,
+        "total_desarmes": 3,
+        "total_passes": 64,
+        "total_appearances": 5,
+        "total_defesas": 0
+    },
+    "414357": {
+        "player": {
+            "id": 414357,
+            "name": "Riquelme Fillipi",
+            "firstname": "Riquelme Fillipi",
+            "lastname": "Marinho de Souza",
+            "age": 18,
+            "birth": {
+                "date": "2006-09-15",
+                "place": null,
+                "country": "Brazil"
+            },
+            "nationality": "Brazil",
+            "height": "175 cm",
+            "weight": "66 kg",
+            "injured": false,
+            "photo": "https://media.api-sports.io/football/players/414357.png"
+        },
+        "statistics": [
+            {
+                "team": {
+                    "id": 121,
+                    "name": "Palmeiras",
+                    "logo": "https://media.api-sports.io/football/teams/121.png"
+                },
+                "league": {
+                    "id": 13,
+                    "name": "CONMEBOL Libertadores",
+                    "country": "World",
+                    "logo": "https://media.api-sports.io/football/leagues/13.png",
+                    "flag": null,
+                    "season": 2024
+                },
+                "games": {
+                    "appearences": 0,
+                    "lineups": 0,
+                    "minutes": 0,
+                    "number": null,
+                    "position": "Attacker",
+                    "rating": null,
+                    "captain": false
+                },
+                "substitutes": {
+                    "in": 0,
+                    "out": 0,
+                    "bench": 0
+                },
+                "shots": {
+                    "total": null,
+                    "on": null
+                },
+                "goals": {
+                    "total": 0,
+                    "conceded": null,
+                    "assists": null,
+                    "saves": null
+                },
+                "passes": {
+                    "total": null,
+                    "key": null,
+                    "accuracy": null
+                },
+                "tackles": {
+                    "total": null,
+                    "blocks": null,
+                    "interceptions": null
+                },
+                "duels": {
+                    "total": null,
+                    "won": null
+                },
+                "dribbles": {
+                    "attempts": null,
+                    "success": null,
+                    "past": null
+                },
+                "fouls": {
+                    "drawn": null,
+                    "committed": null
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellowred": 0,
+                    "red": 0
+                },
+                "penalty": {
+                    "won": null,
+                    "commited": null,
+                    "scored": null,
+                    "missed": null,
+                    "saved": null
+                }
+            }
+        ],
+        "total_goals": 0,
+        "total_dribbles": 0,
+        "total_desarmes": 0,
+        "total_passes": 0,
+        "total_appearances": 0,
+        "total_defesas": 0
+    },
+    "414359": {
+        "player": {
+            "id": 414359,
+            "name": "Vitor Reis",
+            "firstname": "Vitor",
+            "lastname": "de Oliveira Nunes dos Reis",
+            "age": 18,
+            "birth": {
+                "date": "2006-01-12",
+                "place": null,
+                "country": "Brazil"
+            },
+            "nationality": "Brazil",
+            "height": "186 cm",
+            "weight": "67 kg",
+            "injured": false,
+            "photo": "https://media.api-sports.io/football/players/414359.png"
+        },
+        "statistics": [
+            {
+                "team": {
+                    "id": 121,
+                    "name": "Palmeiras",
+                    "logo": "https://media.api-sports.io/football/teams/121.png"
+                },
+                "league": {
+                    "id": 13,
+                    "name": "CONMEBOL Libertadores",
+                    "country": "World",
+                    "logo": "https://media.api-sports.io/football/leagues/13.png",
+                    "flag": null,
+                    "season": 2024
+                },
+                "games": {
+                    "appearences": 1,
+                    "lineups": 1,
+                    "minutes": 90,
+                    "number": null,
+                    "position": "Defender",
+                    "rating": "6.700000",
+                    "captain": false
+                },
+                "substitutes": {
+                    "in": 0,
+                    "out": 0,
+                    "bench": 1
+                },
+                "shots": {
+                    "total": null,
+                    "on": null
+                },
+                "goals": {
+                    "total": 0,
+                    "conceded": 0,
+                    "assists": 0,
+                    "saves": null
+                },
+                "passes": {
+                    "total": 50,
+                    "key": null,
+                    "accuracy": 44
+                },
+                "tackles": {
+                    "total": 3,
+                    "blocks": 1,
+                    "interceptions": null
+                },
+                "duels": {
+                    "total": 11,
+                    "won": 6
+                },
+                "dribbles": {
+                    "attempts": 1,
+                    "success": null,
+                    "past": null
+                },
+                "fouls": {
+                    "drawn": 2,
+                    "committed": null
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellowred": 0,
+                    "red": 0
+                },
+                "penalty": {
+                    "won": null,
+                    "commited": null,
+                    "scored": 0,
+                    "missed": 0,
+                    "saved": null
+                }
+            }
+        ],
+        "total_goals": 0,
+        "total_dribbles": 0,
+        "total_desarmes": 3,
+        "total_passes": 50,
+        "total_appearances": 1,
+        "total_defesas": 0
+    },
+    "415066": {
+        "player": {
+            "id": 415066,
+            "name": "Gilberto",
+            "firstname": "Gilberto Júnior",
+            "lastname": "Leite dos Santos",
+            "age": 19,
+            "birth": {
+                "date": "2005-03-27",
+                "place": "São Paulo",
+                "country": "Brazil"
+            },
+            "nationality": "Brazil",
+            "height": "164 cm",
+            "weight": "71 kg",
+            "injured": false,
+            "photo": "https://media.api-sports.io/football/players/415066.png"
+        },
+        "statistics": [
+            {
+                "team": {
+                    "id": 121,
+                    "name": "Palmeiras",
+                    "logo": "https://media.api-sports.io/football/teams/121.png"
+                },
+                "league": {
+                    "id": 13,
+                    "name": "CONMEBOL Libertadores",
+                    "country": "World",
+                    "logo": "https://media.api-sports.io/football/leagues/13.png",
+                    "flag": null,
+                    "season": 2024
+                },
+                "games": {
+                    "appearences": 0,
+                    "lineups": 0,
+                    "minutes": 0,
+                    "number": null,
+                    "position": "Defender",
+                    "rating": null,
+                    "captain": false
+                },
+                "substitutes": {
+                    "in": 0,
+                    "out": 0,
+                    "bench": 0
+                },
+                "shots": {
+                    "total": null,
+                    "on": null
+                },
+                "goals": {
+                    "total": 0,
+                    "conceded": null,
+                    "assists": null,
+                    "saves": null
+                },
+                "passes": {
+                    "total": null,
+                    "key": null,
+                    "accuracy": null
+                },
+                "tackles": {
+                    "total": null,
+                    "blocks": null,
+                    "interceptions": null
+                },
+                "duels": {
+                    "total": null,
+                    "won": null
+                },
+                "dribbles": {
+                    "attempts": null,
+                    "success": null,
+                    "past": null
+                },
+                "fouls": {
+                    "drawn": null,
+                    "committed": null
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellowred": 0,
+                    "red": 0
+                },
+                "penalty": {
+                    "won": null,
+                    "commited": null,
+                    "scored": null,
+                    "missed": null,
+                    "saved": null
+                }
+            }
+        ],
+        "total_goals": 0,
+        "total_dribbles": 0,
+        "total_desarmes": 0,
+        "total_passes": 0,
+        "total_appearances": 0,
+        "total_defesas": 0
+    },
+    "415068": {
+        "player": {
+            "id": 415068,
+            "name": "Benedetti",
+            "firstname": "Luis Gustavo",
+            "lastname": "Roncholeta Benedetti",
+            "age": 18,
+            "birth": {
+                "date": "2006-06-07",
+                "place": null,
+                "country": "Brazil"
+            },
+            "nationality": "Brazil",
+            "height": "197 cm",
+            "weight": "87 kg",
+            "injured": false,
+            "photo": "https://media.api-sports.io/football/players/415068.png"
+        },
+        "statistics": [
+            {
+                "team": {
+                    "id": 121,
+                    "name": "Palmeiras",
+                    "logo": "https://media.api-sports.io/football/teams/121.png"
+                },
+                "league": {
+                    "id": 13,
+                    "name": "CONMEBOL Libertadores",
+                    "country": "World",
+                    "logo": "https://media.api-sports.io/football/leagues/13.png",
+                    "flag": null,
+                    "season": 2024
+                },
+                "games": {
+                    "appearences": 0,
+                    "lineups": 0,
+                    "minutes": 0,
+                    "number": null,
+                    "position": "Defender",
+                    "rating": null,
+                    "captain": false
+                },
+                "substitutes": {
+                    "in": 0,
+                    "out": 0,
+                    "bench": 0
+                },
+                "shots": {
+                    "total": null,
+                    "on": null
+                },
+                "goals": {
+                    "total": 0,
+                    "conceded": null,
+                    "assists": null,
+                    "saves": null
+                },
+                "passes": {
+                    "total": null,
+                    "key": null,
+                    "accuracy": null
+                },
+                "tackles": {
+                    "total": null,
+                    "blocks": null,
+                    "interceptions": null
+                },
+                "duels": {
+                    "total": null,
+                    "won": null
+                },
+                "dribbles": {
+                    "attempts": null,
+                    "success": null,
+                    "past": null
+                },
+                "fouls": {
+                    "drawn": null,
+                    "committed": null
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellowred": 0,
+                    "red": 0
+                },
+                "penalty": {
+                    "won": null,
+                    "commited": null,
+                    "scored": null,
+                    "missed": null,
+                    "saved": null
+                }
+            }
+        ],
+        "total_goals": 0,
+        "total_dribbles": 0,
+        "total_desarmes": 0,
+        "total_passes": 0,
+        "total_appearances": 0,
+        "total_defesas": 0
+    },
+    "415069": {
+        "player": {
+            "id": 415069,
+            "name": "Patrick Silva",
+            "firstname": "Patrick Roberto",
+            "lastname": "da Silva Campos",
+            "age": 20,
+            "birth": {
+                "date": "2004-03-19",
+                "place": "Juiz de Fora",
+                "country": "Brazil"
+            },
+            "nationality": "Brazil",
+            "height": "187 cm",
+            "weight": "75 kg",
+            "injured": false,
+            "photo": "https://media.api-sports.io/football/players/415069.png"
+        },
+        "statistics": [
+            {
+                "team": {
+                    "id": 121,
+                    "name": "Palmeiras",
+                    "logo": "https://media.api-sports.io/football/teams/121.png"
+                },
+                "league": {
+                    "id": 13,
+                    "name": "CONMEBOL Libertadores",
+                    "country": "World",
+                    "logo": "https://media.api-sports.io/football/leagues/13.png",
+                    "flag": null,
+                    "season": 2024
+                },
+                "games": {
+                    "appearences": 0,
+                    "lineups": 0,
+                    "minutes": 0,
+                    "number": null,
+                    "position": "Midfielder",
+                    "rating": null,
+                    "captain": false
+                },
+                "substitutes": {
+                    "in": 0,
+                    "out": 0,
+                    "bench": 0
+                },
+                "shots": {
+                    "total": null,
+                    "on": null
+                },
+                "goals": {
+                    "total": 0,
+                    "conceded": null,
+                    "assists": null,
+                    "saves": null
+                },
+                "passes": {
+                    "total": null,
+                    "key": null,
+                    "accuracy": null
+                },
+                "tackles": {
+                    "total": null,
+                    "blocks": null,
+                    "interceptions": null
+                },
+                "duels": {
+                    "total": null,
+                    "won": null
+                },
+                "dribbles": {
+                    "attempts": null,
+                    "success": null,
+                    "past": null
+                },
+                "fouls": {
+                    "drawn": null,
+                    "committed": null
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellowred": 0,
+                    "red": 0
+                },
+                "penalty": {
+                    "won": null,
+                    "commited": null,
+                    "scored": null,
+                    "missed": null,
+                    "saved": null
+                }
+            }
+        ],
+        "total_goals": 0,
+        "total_dribbles": 0,
+        "total_desarmes": 0,
+        "total_passes": 0,
+        "total_appearances": 0,
+        "total_defesas": 0
+    },
+    "415071": {
+        "player": {
+            "id": 415071,
+            "name": "Thalys",
+            "firstname": "Thalys Henrique",
+            "lastname": "Gomes de Araújo",
+            "age": 19,
+            "birth": {
+                "date": "2005-02-22",
+                "place": null,
+                "country": "Brazil"
+            },
+            "nationality": "Brazil",
+            "height": "183 cm",
+            "weight": "74 kg",
+            "injured": false,
+            "photo": "https://media.api-sports.io/football/players/415071.png"
+        },
+        "statistics": [
+            {
+                "team": {
+                    "id": 121,
+                    "name": "Palmeiras",
+                    "logo": "https://media.api-sports.io/football/teams/121.png"
+                },
+                "league": {
+                    "id": 13,
+                    "name": "CONMEBOL Libertadores",
+                    "country": "World",
+                    "logo": "https://media.api-sports.io/football/leagues/13.png",
+                    "flag": null,
+                    "season": 2024
+                },
+                "games": {
+                    "appearences": 0,
+                    "lineups": 0,
+                    "minutes": 0,
+                    "number": null,
+                    "position": "Midfielder",
+                    "rating": null,
+                    "captain": false
+                },
+                "substitutes": {
+                    "in": 0,
+                    "out": 0,
+                    "bench": 0
+                },
+                "shots": {
+                    "total": null,
+                    "on": null
+                },
+                "goals": {
+                    "total": 0,
+                    "conceded": null,
+                    "assists": null,
+                    "saves": null
+                },
+                "passes": {
+                    "total": null,
+                    "key": null,
+                    "accuracy": null
+                },
+                "tackles": {
+                    "total": null,
+                    "blocks": null,
+                    "interceptions": null
+                },
+                "duels": {
+                    "total": null,
+                    "won": null
+                },
+                "dribbles": {
+                    "attempts": null,
+                    "success": null,
+                    "past": null
+                },
+                "fouls": {
+                    "drawn": null,
+                    "committed": null
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellowred": 0,
+                    "red": 0
+                },
+                "penalty": {
+                    "won": null,
+                    "commited": null,
+                    "scored": null,
+                    "missed": null,
+                    "saved": null
+                }
+            }
+        ],
+        "total_goals": 0,
+        "total_dribbles": 0,
+        "total_desarmes": 0,
+        "total_passes": 0,
+        "total_appearances": 0,
+        "total_defesas": 0
+    },
+    "422433": {
+        "player": {
+            "id": 422433,
+            "name": "Silva",
+            "firstname": "Diogo Antônio",
+            "lastname": "Rodrigues da Silva",
+            "age": 19,
+            "birth": {
+                "date": "2005-10-06",
+                "place": null,
+                "country": "Brazil"
+            },
+            "nationality": "Brazil",
+            "height": null,
+            "weight": null,
+            "injured": false,
+            "photo": "https://media.api-sports.io/football/players/422433.png"
+        },
+        "statistics": [
+            {
+                "team": {
+                    "id": 121,
+                    "name": "Palmeiras",
+                    "logo": "https://media.api-sports.io/football/teams/121.png"
+                },
+                "league": {
+                    "id": 13,
+                    "name": "CONMEBOL Libertadores",
+                    "country": "World",
+                    "logo": "https://media.api-sports.io/football/leagues/13.png",
+                    "flag": null,
+                    "season": 2024
+                },
+                "games": {
+                    "appearences": 0,
+                    "lineups": 0,
+                    "minutes": 0,
+                    "number": null,
+                    "position": "Midfielder",
+                    "rating": null,
+                    "captain": false
+                },
+                "substitutes": {
+                    "in": 0,
+                    "out": 0,
+                    "bench": 0
+                },
+                "shots": {
+                    "total": null,
+                    "on": null
+                },
+                "goals": {
+                    "total": 0,
+                    "conceded": null,
+                    "assists": null,
+                    "saves": null
+                },
+                "passes": {
+                    "total": null,
+                    "key": null,
+                    "accuracy": null
+                },
+                "tackles": {
+                    "total": null,
+                    "blocks": null,
+                    "interceptions": null
+                },
+                "duels": {
+                    "total": null,
+                    "won": null
+                },
+                "dribbles": {
+                    "attempts": null,
+                    "success": null,
+                    "past": null
+                },
+                "fouls": {
+                    "drawn": null,
+                    "committed": null
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellowred": 0,
+                    "red": 0
+                },
+                "penalty": {
+                    "won": null,
+                    "commited": null,
+                    "scored": null,
+                    "missed": null,
+                    "saved": null
+                }
+            }
+        ],
+        "total_goals": 0,
+        "total_dribbles": 0,
+        "total_desarmes": 0,
+        "total_passes": 0,
+        "total_appearances": 0,
+        "total_defesas": 0
+    },
+    "425714": {
+        "player": {
+            "id": 425714,
+            "name": "Allan",
+            "firstname": "Allan",
+            "lastname": "Andrade Elias",
+            "age": 20,
+            "birth": {
+                "date": "2004-04-19",
+                "place": "Florianópolis",
+                "country": "Brazil"
+            },
+            "nationality": "Brazil",
+            "height": "175 cm",
+            "weight": "70 kg",
+            "injured": false,
+            "photo": "https://media.api-sports.io/football/players/425714.png"
+        },
+        "statistics": [
+            {
+                "team": {
+                    "id": 121,
+                    "name": "Palmeiras",
+                    "logo": "https://media.api-sports.io/football/teams/121.png"
+                },
+                "league": {
+                    "id": 13,
+                    "name": "CONMEBOL Libertadores",
+                    "country": "World",
+                    "logo": "https://media.api-sports.io/football/leagues/13.png",
+                    "flag": null,
+                    "season": 2024
+                },
+                "games": {
+                    "appearences": 0,
+                    "lineups": 0,
+                    "minutes": 0,
+                    "number": null,
+                    "position": "Attacker",
+                    "rating": null,
+                    "captain": false
+                },
+                "substitutes": {
+                    "in": 0,
+                    "out": 0,
+                    "bench": 0
+                },
+                "shots": {
+                    "total": null,
+                    "on": null
+                },
+                "goals": {
+                    "total": 0,
+                    "conceded": null,
+                    "assists": null,
+                    "saves": null
+                },
+                "passes": {
+                    "total": null,
+                    "key": null,
+                    "accuracy": null
+                },
+                "tackles": {
+                    "total": null,
+                    "blocks": null,
+                    "interceptions": null
+                },
+                "duels": {
+                    "total": null,
+                    "won": null
+                },
+                "dribbles": {
+                    "attempts": null,
+                    "success": null,
+                    "past": null
+                },
+                "fouls": {
+                    "drawn": null,
+                    "committed": null
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellowred": 0,
+                    "red": 0
+                },
+                "penalty": {
+                    "won": null,
+                    "commited": null,
+                    "scored": null,
+                    "missed": null,
+                    "saved": null
+                }
+            }
+        ],
+        "total_goals": 0,
+        "total_dribbles": 0,
+        "total_desarmes": 0,
+        "total_passes": 0,
+        "total_appearances": 0,
+        "total_defesas": 0
+    },
+    "425715": {
+        "player": {
+            "id": 425715,
+            "name": "Arthur",
+            "firstname": "Arthur Gabriel",
+            "lastname": "Santana Marcolino",
+            "age": 19,
+            "birth": {
+                "date": "2005-09-04",
+                "place": "São Paulo",
+                "country": "Brazil"
+            },
+            "nationality": "Brazil",
+            "height": "175 cm",
+            "weight": "68 kg",
+            "injured": false,
+            "photo": "https://media.api-sports.io/football/players/425715.png"
+        },
+        "statistics": [
+            {
+                "team": {
+                    "id": 121,
+                    "name": "Palmeiras",
+                    "logo": "https://media.api-sports.io/football/teams/121.png"
+                },
+                "league": {
+                    "id": 13,
+                    "name": "CONMEBOL Libertadores",
+                    "country": "World",
+                    "logo": "https://media.api-sports.io/football/leagues/13.png",
+                    "flag": null,
+                    "season": 2024
+                },
+                "games": {
+                    "appearences": 0,
+                    "lineups": 0,
+                    "minutes": 0,
+                    "number": null,
+                    "position": "Defender",
+                    "rating": null,
+                    "captain": false
+                },
+                "substitutes": {
+                    "in": 0,
+                    "out": 0,
+                    "bench": 0
+                },
+                "shots": {
+                    "total": null,
+                    "on": null
+                },
+                "goals": {
+                    "total": 0,
+                    "conceded": null,
+                    "assists": null,
+                    "saves": null
+                },
+                "passes": {
+                    "total": null,
+                    "key": null,
+                    "accuracy": null
+                },
+                "tackles": {
+                    "total": null,
+                    "blocks": null,
+                    "interceptions": null
+                },
+                "duels": {
+                    "total": null,
+                    "won": null
+                },
+                "dribbles": {
+                    "attempts": null,
+                    "success": null,
+                    "past": null
+                },
+                "fouls": {
+                    "drawn": null,
+                    "committed": null
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellowred": 0,
+                    "red": 0
+                },
+                "penalty": {
+                    "won": null,
+                    "commited": null,
+                    "scored": null,
+                    "missed": null,
+                    "saved": null
+                }
+            }
+        ],
+        "total_goals": 0,
+        "total_dribbles": 0,
+        "total_desarmes": 0,
+        "total_passes": 0,
+        "total_appearances": 0,
+        "total_defesas": 0
+    },
+    "425733": {
+        "player": {
+            "id": 425733,
+            "name": "Estêvão",
+            "firstname": "Estêvão Willian",
+            "lastname": "Almeida de Oliveira Gonçalves",
+            "age": 17,
+            "birth": {
+                "date": "2007-04-24",
+                "place": null,
+                "country": "Brazil"
+            },
+            "nationality": "Brazil",
+            "height": "176 cm",
+            "weight": "62 kg",
+            "injured": false,
+            "photo": "https://media.api-sports.io/football/players/425733.png"
+        },
+        "statistics": [
+            {
+                "team": {
+                    "id": 121,
+                    "name": "Palmeiras",
+                    "logo": "https://media.api-sports.io/football/teams/121.png"
+                },
+                "league": {
+                    "id": 13,
+                    "name": "CONMEBOL Libertadores",
+                    "country": "World",
+                    "logo": "https://media.api-sports.io/football/leagues/13.png",
+                    "flag": null,
+                    "season": 2024
+                },
+                "games": {
+                    "appearences": 6,
+                    "lineups": 4,
+                    "minutes": 320,
+                    "number": null,
+                    "position": "Attacker",
+                    "rating": "6.750000",
+                    "captain": false
+                },
+                "substitutes": {
+                    "in": 2,
+                    "out": 4,
+                    "bench": 3
+                },
+                "shots": {
+                    "total": 5,
+                    "on": 3
+                },
+                "goals": {
+                    "total": 1,
+                    "conceded": 0,
+                    "assists": 0,
+                    "saves": null
+                },
+                "passes": {
+                    "total": 88,
+                    "key": 3,
+                    "accuracy": 11
+                },
+                "tackles": {
+                    "total": 5,
+                    "blocks": null,
+                    "interceptions": 1
+                },
+                "duels": {
+                    "total": 53,
+                    "won": 23
+                },
+                "dribbles": {
+                    "attempts": 21,
+                    "success": 10,
+                    "past": null
+                },
+                "fouls": {
+                    "drawn": 7,
+                    "committed": 5
+                },
+                "cards": {
+                    "yellow": 1,
+                    "yellowred": 0,
+                    "red": 0
+                },
+                "penalty": {
+                    "won": null,
+                    "commited": null,
+                    "scored": 0,
+                    "missed": 0,
+                    "saved": null
+                }
+            }
+        ],
+        "total_goals": 1,
+        "total_dribbles": 10,
+        "total_desarmes": 5,
+        "total_passes": 88,
+        "total_appearances": 6,
+        "total_defesas": 0
+    },
+    "449244": {
+        "player": {
+            "id": 449244,
+            "name": "Luighi Hanri",
+            "firstname": "Luighi Hanri",
+            "lastname": "Sousa Santos",
+            "age": 18,
+            "birth": {
+                "date": "2006-04-30",
+                "place": "São Paulo",
+                "country": "Brazil"
+            },
+            "nationality": "Brazil",
+            "height": "182 cm",
+            "weight": null,
+            "injured": false,
+            "photo": "https://media.api-sports.io/football/players/449244.png"
+        },
+        "statistics": [
+            {
+                "team": {
+                    "id": 121,
+                    "name": "Palmeiras",
+                    "logo": "https://media.api-sports.io/football/teams/121.png"
+                },
+                "league": {
+                    "id": 13,
+                    "name": "CONMEBOL Libertadores",
+                    "country": "World",
+                    "logo": "https://media.api-sports.io/football/leagues/13.png",
+                    "flag": null,
+                    "season": 2024
+                },
+                "games": {
+                    "appearences": 0,
+                    "lineups": 0,
+                    "minutes": 0,
+                    "number": null,
+                    "position": "Attacker",
+                    "rating": null,
+                    "captain": false
+                },
+                "substitutes": {
+                    "in": 0,
+                    "out": 0,
+                    "bench": 1
+                },
+                "shots": {
+                    "total": null,
+                    "on": null
+                },
+                "goals": {
+                    "total": 0,
+                    "conceded": 0,
+                    "assists": null,
+                    "saves": null
+                },
+                "passes": {
+                    "total": null,
+                    "key": null,
+                    "accuracy": null
+                },
+                "tackles": {
+                    "total": null,
+                    "blocks": null,
+                    "interceptions": null
+                },
+                "duels": {
+                    "total": null,
+                    "won": null
+                },
+                "dribbles": {
+                    "attempts": null,
+                    "success": null,
+                    "past": null
+                },
+                "fouls": {
+                    "drawn": null,
+                    "committed": null
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellowred": 0,
+                    "red": 0
+                },
+                "penalty": {
+                    "won": null,
+                    "commited": null,
+                    "scored": 0,
+                    "missed": 0,
+                    "saved": null
+                }
+            }
+        ],
+        "total_goals": 0,
+        "total_dribbles": 0,
+        "total_desarmes": 0,
+        "total_passes": 0,
+        "total_appearances": 0,
+        "total_defesas": 0
+    },
+    "464019": {
+        "player": {
+            "id": 464019,
+            "name": "Aranha",
+            "firstname": "Wanderson Carlos",
+            "lastname": "Ferreira dos Santos",
+            "age": 19,
+            "birth": {
+                "date": "2005-02-07",
+                "place": null,
+                "country": "Brazil"
+            },
+            "nationality": "Brazil",
+            "height": "190 cm",
+            "weight": null,
+            "injured": false,
+            "photo": "https://media.api-sports.io/football/players/464019.png"
+        },
+        "statistics": [
+            {
+                "team": {
+                    "id": 121,
+                    "name": "Palmeiras",
+                    "logo": "https://media.api-sports.io/football/teams/121.png"
+                },
+                "league": {
+                    "id": 13,
+                    "name": "CONMEBOL Libertadores",
+                    "country": "World",
+                    "logo": "https://media.api-sports.io/football/leagues/13.png",
+                    "flag": null,
+                    "season": 2024
+                },
+                "games": {
+                    "appearences": 0,
+                    "lineups": 0,
+                    "minutes": 0,
+                    "number": null,
+                    "position": "Goalkeeper",
+                    "rating": null,
+                    "captain": false
+                },
+                "substitutes": {
+                    "in": 0,
+                    "out": 0,
+                    "bench": 0
+                },
+                "shots": {
+                    "total": null,
+                    "on": null
+                },
+                "goals": {
+                    "total": 0,
+                    "conceded": null,
+                    "assists": null,
+                    "saves": null
+                },
+                "passes": {
+                    "total": null,
+                    "key": null,
+                    "accuracy": null
+                },
+                "tackles": {
+                    "total": null,
+                    "blocks": null,
+                    "interceptions": null
+                },
+                "duels": {
+                    "total": null,
+                    "won": null
+                },
+                "dribbles": {
+                    "attempts": null,
+                    "success": null,
+                    "past": null
+                },
+                "fouls": {
+                    "drawn": null,
+                    "committed": null
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellowred": 0,
+                    "red": 0
+                },
+                "penalty": {
+                    "won": null,
+                    "commited": null,
+                    "scored": null,
+                    "missed": null,
+                    "saved": null
+                }
+            }
+        ],
+        "total_goals": 0,
+        "total_dribbles": 0,
+        "total_desarmes": 0,
+        "total_passes": 0,
+        "total_appearances": 0,
+        "total_defesas": 0
+    },
+    "464020": {
+        "player": {
+            "id": 464020,
+            "name": "Gabriel Kidani",
+            "firstname": "Gabriel",
+            "lastname": "Kidani Bernardino",
+            "age": 18,
+            "birth": {
+                "date": "2006-01-31",
+                "place": "São Paulo",
+                "country": "Brazil"
+            },
+            "nationality": "Brazil",
+            "height": "167 cm",
+            "weight": null,
+            "injured": false,
+            "photo": "https://media.api-sports.io/football/players/464020.png"
+        },
+        "statistics": [
+            {
+                "team": {
+                    "id": 121,
+                    "name": "Palmeiras",
+                    "logo": "https://media.api-sports.io/football/teams/121.png"
+                },
+                "league": {
+                    "id": 13,
+                    "name": "CONMEBOL Libertadores",
+                    "country": "World",
+                    "logo": "https://media.api-sports.io/football/leagues/13.png",
+                    "flag": null,
+                    "season": 2024
+                },
+                "games": {
+                    "appearences": 0,
+                    "lineups": 0,
+                    "minutes": 0,
+                    "number": null,
+                    "position": "Defender",
+                    "rating": null,
+                    "captain": false
+                },
+                "substitutes": {
+                    "in": 0,
+                    "out": 0,
+                    "bench": 0
+                },
+                "shots": {
+                    "total": null,
+                    "on": null
+                },
+                "goals": {
+                    "total": 0,
+                    "conceded": null,
+                    "assists": null,
+                    "saves": null
+                },
+                "passes": {
+                    "total": null,
+                    "key": null,
+                    "accuracy": null
+                },
+                "tackles": {
+                    "total": null,
+                    "blocks": null,
+                    "interceptions": null
+                },
+                "duels": {
+                    "total": null,
+                    "won": null
+                },
+                "dribbles": {
+                    "attempts": null,
+                    "success": null,
+                    "past": null
+                },
+                "fouls": {
+                    "drawn": null,
+                    "committed": null
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellowred": 0,
+                    "red": 0
+                },
+                "penalty": {
+                    "won": null,
+                    "commited": null,
+                    "scored": null,
+                    "missed": null,
+                    "saved": null
+                }
+            }
+        ],
+        "total_goals": 0,
+        "total_dribbles": 0,
+        "total_desarmes": 0,
+        "total_passes": 0,
+        "total_appearances": 0,
+        "total_defesas": 0
+    },
+    "464021": {
+        "player": {
+            "id": 464021,
+            "name": "Rafael Coutinho",
+            "firstname": "Rafael",
+            "lastname": "Barbosa Coutinho",
+            "age": 18,
+            "birth": {
+                "date": "2006-03-24",
+                "place": null,
+                "country": "Brazil"
+            },
+            "nationality": "Brazil",
+            "height": "178 cm",
+            "weight": null,
+            "injured": false,
+            "photo": "https://media.api-sports.io/football/players/464021.png"
+        },
+        "statistics": [
+            {
+                "team": {
+                    "id": 121,
+                    "name": "Palmeiras",
+                    "logo": "https://media.api-sports.io/football/teams/121.png"
+                },
+                "league": {
+                    "id": 13,
+                    "name": "CONMEBOL Libertadores",
+                    "country": "World",
+                    "logo": "https://media.api-sports.io/football/leagues/13.png",
+                    "flag": null,
+                    "season": 2024
+                },
+                "games": {
+                    "appearences": 0,
+                    "lineups": 0,
+                    "minutes": 0,
+                    "number": null,
+                    "position": "Midfielder",
+                    "rating": null,
+                    "captain": false
+                },
+                "substitutes": {
+                    "in": 0,
+                    "out": 0,
+                    "bench": 0
+                },
+                "shots": {
+                    "total": null,
+                    "on": null
+                },
+                "goals": {
+                    "total": 0,
+                    "conceded": null,
+                    "assists": null,
+                    "saves": null
+                },
+                "passes": {
+                    "total": null,
+                    "key": null,
+                    "accuracy": null
+                },
+                "tackles": {
+                    "total": null,
+                    "blocks": null,
+                    "interceptions": null
+                },
+                "duels": {
+                    "total": null,
+                    "won": null
+                },
+                "dribbles": {
+                    "attempts": null,
+                    "success": null,
+                    "past": null
+                },
+                "fouls": {
+                    "drawn": null,
+                    "committed": null
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellowred": 0,
+                    "red": 0
+                },
+                "penalty": {
+                    "won": null,
+                    "commited": null,
+                    "scored": null,
+                    "missed": null,
+                    "saved": null
+                }
+            }
+        ],
+        "total_goals": 0,
+        "total_dribbles": 0,
+        "total_desarmes": 0,
+        "total_passes": 0,
+        "total_appearances": 0,
+        "total_defesas": 0
+    },
+    "464022": {
+        "player": {
+            "id": 464022,
+            "name": "Wendell Sacramento",
+            "firstname": "Wendell",
+            "lastname": "dos Santos Sacramento",
+            "age": 19,
+            "birth": {
+                "date": "2005-08-31",
+                "place": "Salvador",
+                "country": "Brazil"
+            },
+            "nationality": "Brazil",
+            "height": "176 cm",
+            "weight": null,
+            "injured": false,
+            "photo": "https://media.api-sports.io/football/players/464022.png"
+        },
+        "statistics": [
+            {
+                "team": {
+                    "id": 121,
+                    "name": "Palmeiras",
+                    "logo": "https://media.api-sports.io/football/teams/121.png"
+                },
+                "league": {
+                    "id": 13,
+                    "name": "CONMEBOL Libertadores",
+                    "country": "World",
+                    "logo": "https://media.api-sports.io/football/leagues/13.png",
+                    "flag": null,
+                    "season": 2024
+                },
+                "games": {
+                    "appearences": 0,
+                    "lineups": 0,
+                    "minutes": 0,
+                    "number": null,
+                    "position": "Attacker",
+                    "rating": null,
+                    "captain": false
+                },
+                "substitutes": {
+                    "in": 0,
+                    "out": 0,
+                    "bench": 0
+                },
+                "shots": {
+                    "total": null,
+                    "on": null
+                },
+                "goals": {
+                    "total": 0,
+                    "conceded": null,
+                    "assists": null,
+                    "saves": null
+                },
+                "passes": {
+                    "total": null,
+                    "key": null,
+                    "accuracy": null
+                },
+                "tackles": {
+                    "total": null,
+                    "blocks": null,
+                    "interceptions": null
+                },
+                "duels": {
+                    "total": null,
+                    "won": null
+                },
+                "dribbles": {
+                    "attempts": null,
+                    "success": null,
+                    "past": null
+                },
+                "fouls": {
+                    "drawn": null,
+                    "committed": null
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellowred": 0,
+                    "red": 0
+                },
+                "penalty": {
+                    "won": null,
+                    "commited": null,
+                    "scored": null,
+                    "missed": null,
+                    "saved": null
+                }
+            }
+        ],
+        "total_goals": 0,
+        "total_dribbles": 0,
+        "total_desarmes": 0,
+        "total_passes": 0,
+        "total_appearances": 0,
+        "total_defesas": 0
+    }
+}
