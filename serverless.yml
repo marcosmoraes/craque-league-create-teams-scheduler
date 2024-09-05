@@ -40,3 +40,6 @@ resources:
       Properties:
         QueueName: processar-players-statistics-team
         VisibilityTimeout: 60
+        RedrivePolicy:
+          deadLetterTargetArn: arn:aws:sqs:us-east-1:880180928996:processar-players-statistics-team-dlq
+          maxReceiveCount: 5  # Número máximo de tentativas antes de mover a mensagem para a DLQ
