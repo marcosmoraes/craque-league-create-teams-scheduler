@@ -1,109 +1,81 @@
 # League Create Teams Scheduler
 
-Este serviço é responsável por criar times com base nos dados estatísticos dos jogadores na temporada e enviar essas informações para uma fila SQS para processamento posterior.
+Service responsible for scheduling and triggering the creation of teams in leagues of the Craque system.
 
-## 🏗️ Arquitetura
-
-O projeto é construído como uma função serverless na AWS Lambda, utilizando o Serverless Framework para gerenciamento da infraestrutura. A arquitetura inclui:
-
-- **AWS Lambda**: Função serverless para processamento dos dados
-- **Amazon SQS**: Fila para processamento assíncrono dos times criados
-- **MongoDB**: Banco de dados para armazenamento dos dados dos jogadores e times
-- **Serverless Framework**: Framework para gerenciamento da infraestrutura
-
-## 🛠️ Tecnologias Utilizadas
+## 🚀 Technologies
 
 - Node.js 18.x
-- Serverless Framework
 - MongoDB
+- Serverless Framework
 - AWS Lambda
-- Amazon SQS
-- Express.js
-- Axios
+- AWS EventBridge
+- Serverless Offline
 
-## 📦 Dependências Principais
+## 📋 Prerequisites
 
-- `axios`: ^1.5.1
-- `dotenv`: ^16.3.1
-- `express`: ^4.18.2
-- `mongoose`: ^7.6.2
-- `serverless-offline`: ^13.2.0 (dev)
+- Node.js 18.x
+- MongoDB
+- Serverless Framework CLI
+- AWS Account (for deployment)
+- AWS EventBridge access
 
-## 🚀 Configuração do Ambiente
+## 🔧 Installation
 
-1. Instale as dependências:
+1. Clone the repository
+```bash
+git clone [repository-url]
+```
+
+2. Install dependencies
 ```bash
 npm install
 ```
 
-2. Configure as variáveis de ambiente:
-Crie um arquivo `.env` na raiz do projeto com as seguintes variáveis:
-```
-MONGODB_USERNAME=seu_usuario
-MONGODB_PASSWORD=sua_senha
-DATABASE=nome_do_banco
-```
-
-3. Para desenvolvimento local:
+3. Configure environment variables
 ```bash
-npm run dev
+cp .env.example .env
+# Edit the .env file with your credentials
 ```
 
-## 🏃‍♂️ Executando o Projeto
-
-### Desenvolvimento Local
+4. Run locally
 ```bash
 serverless offline
 ```
 
-### Deploy
-```bash
-serverless deploy
-```
+## 📚 Documentation
 
-## 📁 Estrutura do Projeto
+Complete project documentation is available in the `docs/` folder:
 
-```
-├── config/             # Configurações do projeto
-├── infrastructure/     # Configurações de infraestrutura
-├── repositories/       # Camada de acesso a dados
-├── services/          # Serviços e integrações
-├── use-cases/         # Casos de uso da aplicação
-├── utils/             # Utilitários
-├── model/             # Modelos de dados
-├── handler.js         # Ponto de entrada da função Lambda
-└── serverless.yml     # Configuração do Serverless Framework
-```
+- [Overview](docs/00-project-overview.md)
+- [Architecture](docs/01-architecture.md)
+- [Components](docs/02-components.md)
+- [Development Process](docs/03-development-process.md)
+- [API](docs/04-api-documentation.md)
+- [Progress Log](docs/05-progress-log.md)
 
-## 🔄 Fluxo de Processamento
+## 🛠️ Development
 
-1. A função Lambda é acionada via HTTP POST
-2. Validação das variáveis de ambiente
-3. Conexão com o MongoDB
-4. Processamento das estatísticas dos jogadores
-5. Envio dos dados para a fila SQS
-6. Fechamento da conexão com o banco de dados
+### Useful Commands
 
-## 🔒 Segurança
+- Local development: `serverless offline`
+- Dev deployment: `serverless deploy --stage dev`
+- Prod deployment: `serverless deploy --stage prod`
 
-- Credenciais do MongoDB são gerenciadas via variáveis de ambiente
-- IAM roles configuradas para acesso mínimo necessário
-- Timeout configurado para 600 segundos
-- DLQ (Dead Letter Queue) configurada para mensagens com falha
+### Endpoints
 
-## 📝 Notas Adicionais
+- `POST /schedule-team-creation`: Schedules team creation event
+- `POST /process-team-creation`: Processes team creation event
 
-- O serviço utiliza uma fila SQS para processamento assíncrono
-- Implementa retry policy com máximo de 5 tentativas
-- Possui tratamento de erros e logging
-- Suporta CORS para integração com frontend
+## 📝 License
 
-## 🤝 Contribuição
+This project is licensed under the [MIT](LICENSE) license.
 
-1. Faça o fork do projeto
-2. Crie uma branch para sua feature (`git checkout -b feature/nova-feature`)
-3. Commit suas mudanças (`git commit -m 'Adiciona nova feature'`)
-4. Push para a branch (`git push origin feature/nova-feature`)
-5. Abra um Pull Request
+## 🤝 Contributing
+
+1. Fork the project
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
 
